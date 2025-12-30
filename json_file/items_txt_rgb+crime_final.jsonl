@@ -1,0 +1,1295 @@
+{"text": "Regular array of ovals", "label": 1}
+{"text": "The pattern is a regular array of ovals.", "label": 1}
+{"text": "There is a consistent grid of ovals.", "label": 1}
+{"text": "Ovals are arranged in a regular array.", "label": 1}
+{"text": "A regular arrangement consisting of ovals is present.", "label": 1}
+{"text": "Regular array of stars", "label": 2}
+{"text": "The pattern consists of a regular array of stars.", "label": 2}
+{"text": "Stars are organized in a consistent grid.", "label": 2}
+{"text": "There is a regular arrangement of stars.", "label": 2}
+{"text": "A regular array is formed by the placement of stars.", "label": 2}
+{"text": "Irregular repetition of same-sized ovals", "label": 3}
+{"text": "Ovals of the same size are repeated irregularly.", "label": 3}
+{"text": "An irregular pattern is formed by repeating same-sized ovals.", "label": 3}
+{"text": "There is a non-uniform repetition of consistently sized ovals.", "label": 3}
+{"text": "The repetition of same-sized ovals creates an irregular pattern.", "label": 3}
+{"text": "Irregular repetition of same-sized triangles (shape not specified)", "label": 4}
+{"text": "Same-sized triangles of unspecified shapes are repeated irregularly.", "label": 4}
+{"text": "An irregular pattern is formed by the repetition of same-sized triangles, regardless of their specific shape.", "label": 4}
+{"text": "There is an irregular repetition of triangles that are the same size but can be different shapes.", "label": 4}
+{"text": "Triangles of a consistent size are repeated in a non-uniform pattern, with the shape", "label": 4}
+{"text": "Irregular repetition of same-sized hexagons", "label": 5}
+{"text": "Hexagons of the same size are repeated irregularly.", "label": 5}
+{"text": "An irregular pattern is formed by the repetition of same-sized hexagons.", "label": 5}
+{"text": "There is a non-uniform repetition of consistently sized hexagons.", "label": 5}
+{"text": "Same-sized hexagons are repeated to create an irregular pattern.", "label": 5}
+{"text": "Vertical straight line appearing in one section (top, middle, or bottom)", "label": 6}
+{"text": "A vertical straight line is present in one section, be it the top, middle, or bottom.", "label": 6}
+{"text": "In one section (top, middle, or bottom), a vertical straight line can be seen.", "label": 6}
+{"text": "One of the sections (top, middle, or bottom) contains a vertical straight line.", "label": 6}
+{"text": "There is a vertical straight line located in either the top, middle, or bottom section.", "label": 6}
+{"text": "Line with four right-angle bends appearing in one section", "label": 7}
+{"text": "A line containing four right-angle bends is visible in one section.", "label": 7}
+{"text": "In one section, a line with four 90-degree bends appears.", "label": 7}
+{"text": "One section features a line that bends at a right angle four times.", "label": 7}
+{"text": "There is a line with four right-angled turns in one section.", "label": 7}
+{"text": "Straight lines crossed in a plus shape appearing in one section", "label": 8}
+{"text": "Straight lines that cross to form a plus shape appear in one section.", "label": 8}
+{"text": "In one section, crossed straight lines forming a plus sign are visible.", "label": 8}
+{"text": "There are straight lines crossed in the shape of a plus sign in one section.", "label": 8}
+{"text": "One section contains straight lines that intersect to create a plus shape.", "label": 8}
+{"text": "Right-angle shaped line appearing in one section", "label": 9}
+{"text": "A line shaped like a right angle appears in one section.", "label": 9}
+{"text": "In one section, a line bent at a right angle is visible.", "label": 9}
+{"text": "There is a line with a 90-degree angle in one section.", "label": 9}
+{"text": "One section contains a line that forms a right angle.", "label": 9}
+{"text": "Repetitive array of convex curves at regular intervals", "label": 10}
+{"text": "An array of convex curves is repeated at regular intervals.", "label": 10}
+{"text": "There is a repetitive grid of outwardly curved lines spaced at regular intervals.", "label": 10}
+{"text": "Convex curves appear in a repetitive array with consistent spacing.", "label": 10}
+{"text": "At regular intervals, a repetitive array of convex curves is observed.", "label": 10}
+{"text": "A repeating arrangement of small, fine mountain shapes.", "label": 11}
+{"text": "There is a repeating arrangement composed of small, delicate mountain shapes.", "label": 11}
+{"text": "Small and fine mountain shapes are arranged in a repeating pattern.", "label": 11}
+{"text": "The pattern consists of a repeating arrangement of small, fine mountain shapes.", "label": 11}
+{"text": "A repetitive arrangement of small, slender mountain shapes is present.", "label": 11}
+{"text": "Regular repetitive array of mountain shapes with obtuse angles at the vertices", "label": 12}
+{"text": "A regular, repeating array of mountain shapes features obtuse angles at its vertices.", "label": 12}
+{"text": "The pattern is a regular repetitive grid of mountain shapes that have obtuse angles at their peaks.", "label": 12}
+{"text": "There is a regular array of repeating mountain shapes characterized by obtuse angles at the vertices.", "label": 12}
+{"text": "Mountain shapes with obtuse angles at the vertices form a regular, repetitive array.", "label": 12}
+{"text": "Deep wave curve repeating at regular intervals", "label": 13}
+{"text": "A deep wave curve repeats at regular intervals.", "label": 13}
+{"text": "There is a repeating deep wave curve with regular spacing.", "label": 13}
+{"text": "The pattern is a deep wave curve that repeats itself at regular intervals.", "label": 13}
+{"text": "At regular intervals, a deep wave curve is repeated.", "label": 13}
+{"text": "Repetitive array of lines with two right-angle bends (includes slightly rounded corners)", "label": 14}
+{"text": "There is a repetitive array of lines with two right-angle bends, which may include slightly rounded corners.", "label": 14}
+{"text": "Lines with two 90-degree bends (and possibly rounded corners) form a repetitive array.", "label": 14}
+{"text": "The pattern is a repeating grid of lines with two right-angle turns, allowing for slightly rounded corners.", "label": 14}
+{"text": "A repetitive array is made of lines with two right-angle bends, where corners can be slightly rounded.", "label": 14}
+{"text": "Repetitive array of lines with two bends in a trapezoid shape", "label": 15}
+{"text": "A repetitive array is formed by lines with two bends that create a trapezoid shape.", "label": 15}
+{"text": "The pattern is a repeating grid of lines, each with two bends forming a trapezoid.", "label": 15}
+{"text": "There is a repetitive array of lines that are bent twice into a trapezoid shape.", "label": 15}
+{"text": "Lines with two bends in the shape of a trapezoid make up a repetitive array.", "label": 15}
+{"text": "Combined array of regular mountain shapes and straight lines (single period)", "label": 16}
+{"text": "Within a single period, there is a combined array of regular mountain shapes and straight lines.", "label": 16}
+{"text": "A combination of regular mountain shapes and straight lines forms an array over a single period.", "label": 16}
+{"text": "The array is a mix of regular mountain shapes and straight lines, contained within one cycle.", "label": 16}
+{"text": "A single period features a combined array of regular mountain shapes and straight lines.", "label": 16}
+{"text": "Regular repetitive array of mountain shapes in a vertical direction (includes diagonal)", "label": 17}
+{"text": "A regular, repeating array of mountain shapes is arranged in a vertical or diagonal direction.", "label": 17}
+{"text": "The pattern is a regular repetitive grid of mountain shapes oriented vertically, including diagonally.", "label": 17}
+{"text": "There is a regular array of repeating mountain shapes aligned in a vertical (or diagonal) direction.", "label": 17}
+{"text": "In a vertical or diagonal direction, there is a regular repetitive array of mountain shapes.", "label": 17}
+{"text": "Repetitive array of mountain shapes facing each other", "label": 18}
+{"text": "There is a repetitive array of mountain shapes that are oriented towards each other.", "label": 18}
+{"text": "A repeating grid of mountain shapes is arranged to face one another.", "label": 18}
+{"text": "The pattern features a repetitive array where mountain shapes face each other.", "label": 18}
+{"text": "Mountain shapes are positioned facing each other in a repetitive array.", "label": 18}
+{"text": "Seagull-patterned curves arranged repeatedly at regular intervals (must repeat at least twice).", "label": 19}
+{"text": "Curves with a seagull pattern are repeatedly arranged at regular intervals, with at least two repetitions.", "label": 19}
+{"text": "Seagull-patterned curves are arranged in a repeating sequence at regular intervals, occurring a minimum of twice.", "label": 19}
+{"text": "The arrangement features seagull-patterned curves that repeat at least twice at regular intervals.", "label": 19}
+{"text": "At least two repetitions of seagull-patterned curves are arranged at regular intervals.", "label": 19}
+{"text": "Regular array of a single-period curve", "label": 20}
+{"text": "There is a regular array of a curve that completes a single period.", "label": 20}
+{"text": "A single-period curve is arranged in a regular array.", "label": 20}
+{"text": "The pattern is a regular array made of a single-period curve.", "label": 20}
+{"text": "A regular array is formed by a curve with a single period.", "label": 20}
+{"text": "Continuous array of right-angled, hat-shaped lines", "label": 21}
+{"text": "There is a continuous array of lines shaped like right-angled hats.", "label": 21}
+{"text": "The pattern is a non-stop array of hat-shaped lines with right angles.", "label": 21}
+{"text": "A continuous array is formed by right-angled lines that resemble hats.", "label": 21}
+{"text": "Hat-shaped lines with right angles are arranged in a continuous array.", "label": 21}
+{"text": "Continuous array of lines with two bends and a long middle section", "label": 22}
+{"text": "A continuous array is formed by lines that have two bends and a long middle section.", "label": 22}
+{"text": "The pattern is a non-stop array of lines featuring two bends and a long central part.", "label": 22}
+{"text": "There is a continuous grid of lines, each with two bends and a long middle segment.", "label": 22}
+{"text": "Lines with two bends and a long middle section make up a continuous array.", "label": 22}
+{"text": "Continuous array of lines with two right-angle bends", "label": 23}
+{"text": "A continuous array is formed by lines that have two right-angle bends.", "label": 23}
+{"text": "The pattern is a non-stop array of lines featuring two 90-degree bends.", "label": 23}
+{"text": "There is a continuous grid of lines, each with two right-angle bends.", "label": 23}
+{"text": "Lines with two right-angle bends make up a continuous array.", "label": 23}
+{"text": "Parallel array of V-shapes in opposite directions", "label": 24}
+{"text": "There is a parallel array of V-shapes that point in opposite directions.", "label": 24}
+{"text": "V-shapes in opposing directions are arranged in a parallel array.", "label": 24}
+{"text": "The parallel array consists of V-shapes oriented in opposite directions.", "label": 24}
+{"text": "In this parallel array, V-shapes are arranged to face away from each other.", "label": 24}
+{"text": "Parallel array of V-shapes", "label": 25}
+{"text": "There is a parallel array composed of V-shapes.", "label": 25}
+{"text": "V-shapes are arranged in a parallel array.", "label": 25}
+{"text": "The pattern consists of a parallel arrangement of V-shapes.", "label": 25}
+{"text": "A parallel array is formed by V-shapes.", "label": 25}
+{"text": "Array of V-shapes facing each other", "label": 26}
+{"text": "There is an array of V-shapes oriented to face one another.", "label": 26}
+{"text": "V-shapes are arranged in an array where they face each other.", "label": 26}
+{"text": "The array features V-shapes that are directed towards each other.", "label": 26}
+{"text": "In this array, the V-shapes are facing each other.", "label": 26}
+{"text": "Short isosceles triangle", "label": 27}
+{"text": "The shape is a short isosceles triangle.", "label": 27}
+{"text": "A short isosceles triangle is present.", "label": 27}
+{"text": "It has the form of a short isosceles triangle.", "label": 27}
+{"text": "The shape of a short isosceles triangle is observed.", "label": 27}
+{"text": "Shape of two stacked pyramid triangles", "label": 28}
+{"text": "The shape consists of two pyramid triangles stacked on top of each other.", "label": 28}
+{"text": "It has the shape of two stacked pyramid triangles.", "label": 28}
+{"text": "The form is of two pyramid triangles, one stacked on the other.", "label": 28}
+{"text": "A shape resembling two stacked pyramid triangles is present.", "label": 28}
+{"text": "Shape with a small dot inside a triangle", "label": 29}
+{"text": "The shape features a small dot located inside a triangle.", "label": 29}
+{"text": "It is a shape with a small dot within a triangle.", "label": 29}
+{"text": "The shape is a triangle containing a small dot.", "label": 29}
+{"text": "A small dot is inside a triangle in this shape.", "label": 29}
+{"text": "Triangle with another shape inside", "label": 30}
+{"text": "The shape is a triangle containing another shape.", "label": 30}
+{"text": "A triangle with a different shape inside it is present.", "label": 30}
+{"text": "Inside the triangle, there is another shape.", "label": 30}
+{"text": "It has the form of a triangle with an inner shape.", "label": 30}
+{"text": "Triangle with one concave side", "label": 31}
+{"text": "The shape is a triangle that has one concave side.", "label": 31}
+{"text": "A triangle with a single inwardly curved side is present.", "label": 31}
+{"text": "It has the form of a triangle with one concave side.", "label": 31}
+{"text": "The shape of a triangle with one concave side is observed.", "label": 31}
+{"text": "Triangle with one rounded corner", "label": 32}
+{"text": "The shape is a triangle that has one rounded corner.", "label": 32}
+{"text": "A triangle with a single rounded corner is present.", "label": 32}
+{"text": "It has the form of a triangle where one corner is rounded.", "label": 32}
+{"text": "The shape of a triangle with one rounded corner is observed.", "label": 32}
+{"text": "Irregular triangle with a shape inside", "label": 33}
+{"text": "The shape is an irregular triangle containing another shape inside.", "label": 33}
+{"text": "An irregular triangle with a shape within it is present.", "label": 33}
+{"text": "It has the form of an irregular triangle with an inner shape.", "label": 33}
+{"text": "Inside the irregular triangle, there is another shape.", "label": 33}
+{"text": "Case where there is another shape inside a rectangle", "label": 34}
+{"text": "This is a case in which another shape is located inside a rectangle.", "label": 34}
+{"text": "In this scenario, there is a different shape within a rectangle.", "label": 34}
+{"text": "This describes a situation where a rectangle contains another shape.", "label": 34}
+{"text": "An inner shape is present inside a rectangle in this case.", "label": 34}
+{"text": "Rectangle with a single dot inside", "label": 35}
+{"text": "The shape is a rectangle with a single dot inside it.", "label": 35}
+{"text": "A rectangle containing a single dot is present.", "label": 35}
+{"text": "It has the form of a rectangle with an inner dot.", "label": 35}
+{"text": "A single dot is located inside a rectangle.", "label": 35}
+{"text": "Pyramid of two stacked rectangles", "label": 36}
+{"text": "The shape is a pyramid made of two stacked rectangles.", "label": 36}
+{"text": "A pyramid consisting of two stacked rectangles is present.", "label": 36}
+{"text": "It has the form of a two-level pyramid of rectangles.", "label": 36}
+{"text": "The shape of a pyramid with two stacked rectangles is observed.", "label": 36}
+{"text": "Long trapezoid", "label": 37}
+{"text": "The shape is a long trapezoid.", "label": 37}
+{"text": "An elongated trapezoid is present.", "label": 37}
+{"text": "It has the form of a long trapezoid.", "label": 37}
+{"text": "The shape of a long trapezoid is observed.", "label": 37}
+{"text": "Right-angled trapezoid with a long hypotenuse", "label": 38}
+{"text": "The shape is a right-angled trapezoid that has a long hypotenuse.", "label": 38}
+{"text": "A right-angled trapezoid with a long hypotenuse is present.", "label": 38}
+{"text": "It has the form of a right-angled trapezoid with a long longest side.", "label": 38}
+{"text": "The shape of a right-angled trapezoid with a long hypotenuse is observed.", "label": 38}
+{"text": "Case where a rectangle is divided into 4 blocks", "label": 39}
+{"text": "This is a case where a rectangle is segmented into four blocks.", "label": 39}
+{"text": "In this scenario, a rectangle is divided into 4 sections.", "label": 39}
+{"text": "This describes a situation where a rectangle is partitioned into four blocks.", "label": 39}
+{"text": "A rectangle divided into four blocks is observed in this case.", "label": 39}
+{"text": "Case where there is a shape inside a trapezoid", "label": 40}
+{"text": "This is a case in which a shape is located inside a trapezoid.", "label": 40}
+{"text": "In this scenario, there is a shape within a trapezoid.", "label": 40}
+{"text": "This describes a situation where a trapezoid contains a shape.", "label": 40}
+{"text": "An inner shape is present inside a trapezoid in this case.", "label": 40}
+{"text": "Rectangle with three or more rectangles, circles, or other shapes arranged in a row inside", "label": 41}
+{"text": "The shape is a rectangle containing three or more other shapes, like rectangles or circles, arranged in a row.", "label": 41}
+{"text": "Inside a rectangle, three or more shapes are arranged in a row.", "label": 41}
+{"text": "A row of at least three shapes is present inside a rectangle.", "label": 41}
+{"text": "It is a rectangle with an inner row of three or more shapes.", "label": 41}
+{"text": "Rectangle with two or more rectangles, circles, or other shapes arranged in a row inside", "label": 42}
+{"text": "The shape is a rectangle containing two or more other shapes, like rectangles or circles, arranged in a row.", "label": 42}
+{"text": "Inside a rectangle, two or more shapes are arranged in a row.", "label": 42}
+{"text": "A row of at least two shapes is present inside a rectangle.", "label": 42}
+{"text": "It is a rectangle with an inner row of two or more shapes.", "label": 42}
+{"text": "Case where a rectangle is tripled (three concentric rectangles)", "label": 43}
+{"text": "This is a case where a rectangle is tripled, forming three concentric rectangles.", "label": 43}
+{"text": "In this scenario, three concentric rectangles are present.", "label": 43}
+{"text": "This describes a situation with three nested rectangles.", "label": 43}
+{"text": "A tripled rectangle, in the form of three concentric rectangles, is observed.", "label": 43}
+{"text": "Case where there is another shape inside a double rectangle", "label": 44}
+{"text": "This is a case where another shape is located inside a double rectangle.", "label": 44}
+{"text": "In this scenario, a different shape is within a double rectangle.", "label": 44}
+{"text": "This describes a situation where a double rectangle contains another shape.", "label": 44}
+{"text": "An inner shape is present inside a double rectangle in this case.", "label": 44}
+{"text": "Rhombus with a shape inside", "label": 45}
+{"text": "The shape is a rhombus with another shape inside it.", "label": 45}
+{"text": "A rhombus containing a shape is present.", "label": 45}
+{"text": "It has the form of a rhombus with an inner shape.", "label": 45}
+{"text": "A shape is located inside a rhombus.", "label": 45}
+{"text": "Rectangle with one concave side and another convex side", "label": 46}
+{"text": "The shape is a rectangle with one concave side and another side that is convex.", "label": 46}
+{"text": "A rectangle with one inwardly curved side and one outwardly curved side is present.", "label": 46}
+{"text": "It has the form of a rectangle with both a concave and a convex side.", "label": 46}
+{"text": "The shape of a rectangle with one concave and one convex side is observed.", "label": 46}
+{"text": "Irregular rectangle with two or more shapes inside", "label": 47}
+{"text": "The shape is an irregular rectangle with two or more shapes inside it.", "label": 47}
+{"text": "An irregular rectangle containing at least two shapes is present.", "label": 47}
+{"text": "It has the form of an irregular rectangle with multiple inner shapes.", "label": 47}
+{"text": "Two or more shapes are located inside an irregular rectangle.", "label": 47}
+{"text": "Rectangle with rounded corners", "label": 48}
+{"text": "The shape is a rectangle with corners that are rounded.", "label": 48}
+{"text": "A rectangle with rounded corners is present.", "label": 48}
+{"text": "It has the form of a rectangle with rounded corners.", "label": 48}
+{"text": "The shape of a rectangle with rounded corners is observed.", "label": 48}
+{"text": "Pentagon", "label": 49}
+{"text": "The shape is a pentagon.", "label": 49}
+{"text": "A pentagon is present.", "label": 49}
+{"text": "It has the form of a pentagon.", "label": 49}
+{"text": "The shape of a pentagon is observed.", "label": 49}
+{"text": "Case where another shape is inside the pentagon", "label": 50}
+{"text": "This is a case in which another shape is located inside the pentagon.", "label": 50}
+{"text": "In this scenario, there is a different shape within the pentagon.", "label": 50}
+{"text": "This describes a situation where a pentagon contains another shape.", "label": 50}
+{"text": "An inner shape is present inside the pentagon in this case.", "label": 50}
+{"text": "Pentagon with one indented side", "label": 51}
+{"text": "The shape is a pentagon that has one indented side.", "label": 51}
+{"text": "A pentagon with a single indented side is present.", "label": 51}
+{"text": "It has the form of a pentagon with one of its sides indented.", "label": 51}
+{"text": "The shape of a pentagon with one indented side is observed", "label": 51}
+{"text": "Polygon with one side having two indentations", "label": 52}
+{"text": "The shape is a polygon with one side that has two indentations.", "label": 52}
+{"text": "A polygon with a single side featuring two indents is present.", "label": 52}
+{"text": "It has the form of a polygon with two indentations on one side.", "label": 52}
+{"text": "The shape of a polygon with one side having two indents is observed.", "label": 52}
+{"text": "Polygon with one side having three or more indentations", "label": 53}
+{"text": "The shape is a polygon with one side that has three or more indentations.", "label": 53}
+{"text": "A polygon with a single side featuring at least three indents is present.", "label": 53}
+{"text": "It has the form of a polygon with three or more indentations on one side.", "label": 53}
+{"text": "The shape of a polygon with one side having three or more indents is observed.", "label": 53}
+{"text": "Y-shaped polygon made of curves", "label": 54}
+{"text": "The shape is a Y-shaped polygon constructed from curves.", "label": 54}
+{"text": "A Y-shaped polygon made of curved lines is present.", "label": 54}
+{"text": "It has the form of a curved, Y-shaped polygon.", "label": 54}
+{"text": "The shape of a Y-polygon made of curves is observed.", "label": 54}
+{"text": "Hat-shaped octagon", "label": 55}
+{"text": "The shape is an octagon that resembles a hat.", "label": 55}
+{"text": "A hat-shaped octagon is present.", "label": 55}
+{"text": "It has the form of an octagon shaped like a hat.", "label": 55}
+{"text": "The shape of a hat-like octagon is observed.", "label": 55}
+{"text": "Hat-shaped hexagon", "label": 56}
+{"text": "The shape is a hexagon that resembles a hat.", "label": 56}
+{"text": "A hat-shaped hexagon is present.", "label": 56}
+{"text": "It has the form of a hexagon shaped like a hat.", "label": 56}
+{"text": "The shape of a hat-like hexagon is observed.", "label": 56}
+{"text": "Polygon with one triangular indented side", "label": 57}
+{"text": "The shape is a polygon with one side that has a triangular indentation.", "label": 57}
+{"text": "A polygon with a single triangular indented side is present.", "label": 57}
+{"text": "It has the form of a polygon with a triangular indent on one side.", "label": 57}
+{"text": "The shape of a polygon with one triangular indented side is observed.", "label": 57}
+{"text": "Human-shaped polygon", "label": 58}
+{"text": "The shape is a polygon that resembles a human figure.", "label": 58}
+{"text": "A human-shaped polygon is present.", "label": 58}
+{"text": "It has the form of a polygon shaped like a person.", "label": 58}
+{"text": "The shape of a human-like polygon is observed.", "label": 58}
+{"text": "Axe-shaped hexagon", "label": 59}
+{"text": "The shape is a hexagon that resembles an axe.", "label": 59}
+{"text": "An axe-shaped hexagon is present.", "label": 59}
+{"text": "It has the form of a hexagon shaped like an axe.", "label": 59}
+{"text": "The shape of an axe-like hexagon is observed.", "label": 59}
+{"text": "Church-shaped polygon", "label": 60}
+{"text": "The shape is a polygon that resembles a church.", "label": 60}
+{"text": "A church-shaped polygon is present.", "label": 60}
+{"text": "It has the form of a polygon shaped like a church.", "label": 60}
+{"text": "The shape of a church-like polygon is observed.", "label": 60}
+{"text": "Case where another shape is inside a circle", "label": 61}
+{"text": "This is a case in which another shape is located inside a circle.", "label": 61}
+{"text": "In this scenario, there is a different shape within a circle.", "label": 61}
+{"text": "This describes a situation where a circle contains another shape.", "label": 61}
+{"text": "An inner shape is present inside a circle in this case.", "label": 61}
+{"text": "Case where two or more regular circles are connected by a straight line", "label": 62}
+{"text": "This is a case where a straight line connects two or more regular circles.", "label": 62}
+{"text": "In this scenario, two or more regular circles are joined by a straight line.", "label": 62}
+{"text": "This describes a situation where a straight line links at least two regular circles.", "label": 62}
+{"text": "Two or more regular circles connected by a straight line are observed in this case.", "label": 62}
+{"text": "One straight line inside an oval", "label": 63}
+{"text": "There is one straight line inside of an oval.", "label": 63}
+{"text": "A single straight line is contained within an oval.", "label": 63}
+{"text": "The shape is an oval with one straight line inside.", "label": 63}
+{"text": "Inside an oval, there is a single straight line.", "label": 63}
+{"text": "Ovals facing each other like bullets", "label": 64}
+{"text": "The shape consists of ovals facing each other in a bullet-like formation.", "label": 64}
+{"text": "Ovals that face each other like bullets are present.", "label": 64}
+{"text": "It has the form of ovals oriented towards each other like bullets.", "label": 64}
+{"text": "The shape of bullet-like ovals facing each other is observed.", "label": 64}
+{"text": "Double circle combined with two or more straight lines", "label": 65}
+{"text": "The shape is a double circle combined with at least two straight lines.", "label": 65}
+{"text": "A double circle connected to two or more straight lines is present.", "label": 65}
+{"text": "It has the form of a double circle and multiple straight lines joined together.", "label": 65}
+{"text": "The shape of a double circle combined with two or more straight lines is observed.", "label": 65}
+{"text": "Flower-shaped polygon", "label": 66}
+{"text": "The shape is a polygon that resembles a flower.", "label": 66}
+{"text": "A flower-shaped polygon is present.", "label": 66}
+{"text": "It has the form of a polygon shaped like a flower.", "label": 66}
+{"text": "The shape of a flower-like polygon is observed.", "label": 66}
+{"text": "Dumbbell shape", "label": 67}
+{"text": "The shape resembles a dumbbell.", "label": 67}
+{"text": "A dumbbell shape is present.", "label": 67}
+{"text": "It has the form of a dumbbell.", "label": 67}
+{"text": "The shape of a dumbbell is observed.", "label": 67}
+{"text": "Water bottle shape", "label": 68}
+{"text": "The shape resembles a water bottle.", "label": 68}
+{"text": "A water bottle shape is present.", "label": 68}
+{"text": "It has the form of a water bottle.", "label": 68}
+{"text": "The shape of a water bottle is observed.", "label": 68}
+{"text": "Thermometer shape", "label": 69}
+{"text": "The shape resembles a thermometer.", "label": 69}
+{"text": "A thermometer shape is present.", "label": 69}
+{"text": "It has the form of a thermometer.", "label": 69}
+{"text": "The shape of a thermometer is observed.", "label": 69}
+{"text": "Circle indented on one side with a curved line", "label": 70}
+{"text": "The shape is a circle indented on one side by a curved line.", "label": 70}
+{"text": "A circle with a curved-line indentation on one side is present.", "label": 70}
+{"text": "It has the form of a circle with a curved indent on one side.", "label": 70}
+{"text": "The shape of a circle indented with a curved line is observed.", "label": 70}
+{"text": "Regular repetition of fine dots", "label": 71}
+{"text": "The pattern consists of a regular repetition of fine dots.", "label": 71}
+{"text": "There is a consistent and repeating pattern of small dots.", "label": 71}
+{"text": "Fine dots are repeated regularly to form a pattern.", "label": 71}
+{"text": "A regular, repeating arrangement of fine dots is observed.", "label": 71}
+{"text": "Regular array of circles", "label": 72}
+{"text": "The pattern is a regular array of circles.", "label": 72}
+{"text": "There is a consistent grid or arrangement of circles.", "label": 72}
+{"text": "Circles are arranged in a regular array.", "label": 72}
+{"text": "A regular arrangement consisting of circles is present.", "label": 72}
+{"text": "Quadrilaterals (including squares, rhombuses, rectangles, etc., with no distinction of form) are arranged in a regular pattern.", "label": 73}
+{"text": "Various quadrilaterals, such as squares and rectangles, are organized in a regular pattern without regard to their specific form.", "label": 73}
+{"text": "A regular pattern is formed by the arrangement of quadrilaterals, irrespective of their specific shapes (like squares or rhombuses).", "label": 73}
+{"text": "All types of quadrilaterals are arranged in a consistent pattern, with no distinction between forms.", "label": 73}
+{"text": "Without differentiating their shapes, quadrilaterals (squares, rhombuses, etc.) are set in a regular layout.", "label": 73}
+{"text": "Regular hexagonal array (honeycomb pattern)", "label": 74}
+{"text": "The shapes are arranged in a regular hexagonal array, resembling a honeycomb pattern.", "label": 74}
+{"text": "There is a consistent honeycomb pattern formed by a hexagonal grid.", "label": 74}
+{"text": "The layout is a regular hexagonal array, also known as a honeycomb pattern.", "label": 74}
+{"text": "A regular array of hexagons creates a honeycomb pattern.", "label": 74}
+{"text": "A regular, mountain-shaped arrangement of rectangles (the lines are disconnected).", "label": 75}
+{"text": "Rectangles are arranged in a regular, mountain-like shape, with disconnected lines.", "label": 75}
+{"text": "A regular arrangement of rectangles forms a mountain shape, and the lines are not connected.", "label": 75}
+{"text": "The pattern is a mountain-shaped arrangement of rectangles where the lines are broken.", "label": 75}
+{"text": "Disconnected lines form a regular, mountain-shaped pattern made of rectangles.", "label": 75}
+{"text": "Rectangles are arranged in a regular pattern; the triangles do not have to be equilateral.", "label": 76}
+{"text": "A regular pattern is formed by the arrangement of rectangles, and the triangles can be non-equilateral.", "label": 76}
+{"text": "The rectangles are laid out consistently, and it is not necessary for the triangles to be equilateral.", "label": 76}
+{"text": "There is a regular arrangement of rectangles, and the triangles are not required to be equilateral.", "label": 76}
+{"text": "The arrangement of rectangles is regular, and the triangles need not be equilateral.", "label": 76}
+{"text": "A regular arrangement of 'y' shapes (the direction of arrangement is irrelevant).", "label": 77}
+{"text": "There is a regular arrangement of 'y' shapes, for which the direction is not important.", "label": 77}
+{"text": "Shapes resembling the letter 'y' are arranged in a regular pattern, regardless of direction.", "label": 77}
+{"text": "The direction of the arrangement does not matter in this regular pattern of 'y' shapes.", "label": 77}
+{"text": "A regular pattern of 'y' shapes exists where the orientation is variable.", "label": 77}
+{"text": "Parallel arrangement of broken lines", "label": 78}
+{"text": "Broken lines are arranged parallel to each other.", "label": 78}
+{"text": "There is a parallel arrangement consisting of broken lines.", "label": 78}
+{"text": "The pattern is an arrangement of parallel, non-continuous lines.", "label": 78}
+{"text": "An arrangement of broken lines in a parallel formation is present.", "label": 78}
+{"text": "Regular array of lightning bolt shapes in the same orientation", "label": 79}
+{"text": "There is a regular array of lightning bolt shapes, all facing the same direction.", "label": 79}
+{"text": "Lightning bolt shapes are arranged in a regular array with a consistent orientation.", "label": 79}
+{"text": "A regular grid of lightning bolt shapes is present, and they all have the same alignment.", "label": 79}
+{"text": "The pattern consists of a regular array of lightning bolt shapes that are uniformly oriented.", "label": 79}
+{"text": "Groups of parallel lines arranged at 90 degrees to adjacent groups", "label": 80}
+{"text": "Groups of parallel lines are set at a 90-degree angle to the groups next to them.", "label": 80}
+{"text": "The arrangement consists of sets of parallel lines that are perpendicular to adjacent sets.", "label": 80}
+{"text": "There are groups of parallel lines, with each group arranged at a right angle to its neighbor.", "label": 80}
+{"text": "Adjacent groups of parallel lines are arranged perpendicularly to one another.", "label": 80}
+{"text": "Rhombuses arranged in a concentric pattern with increasing spacing between them.", "label": 81}
+{"text": "A concentric pattern of rhombuses is arranged with spacing that increases between them.", "label": 81}
+{"text": "Rhombuses form a concentric arrangement where the distance between them grows larger.", "label": 81}
+{"text": "There is a concentric pattern of rhombuses, and the space between them widens progressively.", "label": 81}
+{"text": "With increasing gaps between them, rhombuses are organized in a concentric design.", "label": 81}
+{"text": "Regular array of broken wave patterns at constant intervals", "label": 82}
+{"text": "There is a regular array of broken wave patterns spaced at constant intervals.", "label": 82}
+{"text": "Broken wave patterns are arranged in a regular array with consistent spacing.", "label": 82}
+{"text": "At constant intervals, a regular array of broken wave patterns is observed.", "label": 82}
+{"text": "The pattern is a regular array of broken waves with constant intervals between them.", "label": 82}
+{"text": "Perpendicular arrangement of adjacent straight lines", "label": 83}
+{"text": "Adjacent straight lines are arranged perpendicularly to each other.", "label": 83}
+{"text": "The pattern is a perpendicular arrangement of neighboring straight lines.", "label": 83}
+{"text": "Straight lines are arranged at right angles to the lines next to them.", "label": 83}
+{"text": "A perpendicular layout of adjacent straight lines is observed.", "label": 83}
+{"text": "Staggered arrangement of broken lines", "label": 84}
+{"text": "Broken lines are arranged in a staggered formation.", "label": 84}
+{"text": "There is a staggered arrangement of non-continuous lines.", "label": 84}
+{"text": "The pattern features broken lines that are arranged in a staggered way.", "label": 84}
+{"text": "A staggered layout of broken lines is observed.", "label": 84}
+{"text": "Regular array of shapes resembling the character '八' (eight)", "label": 85}
+{"text": "There is a regular array of shapes that look like the character '八'.", "label": 85}
+{"text": "Shapes similar to the character for 'eight' (八) are arranged in a regular array.", "label": 85}
+{"text": "A regular array is formed by shapes that resemble the character '八'.", "label": 85}
+{"text": "The pattern is a regular array of shapes that look like '八'.", "label": 85}
+{"text": "Triangles and straight lines are arranged in a regular, alternating (staggered) pattern.", "label": 86}
+{"text": "A regular, staggered pattern is formed by the arrangement of triangles and straight lines.", "label": 86}
+{"text": "Triangles and straight lines are organized in a consistent, alternating sequence.", "label": 86}
+{"text": "The arrangement of triangles and straight lines follows a regular, staggered layout.", "label": 86}
+{"text": "In a regular and alternating fashion, triangles and straight lines are arranged.", "label": 86}
+{"text": "Regular array of semicircles", "label": 87}
+{"text": "The pattern is a regular array of semicircles.", "label": 87}
+{"text": "Semicircles are arranged in a consistent grid.", "label": 87}
+{"text": "There is a regular arrangement consisting of semicircles.", "label": 87}
+{"text": "A regular array is formed by semicircles.", "label": 87}
+{"text": "Regular array of rounded rectangles (arrangement direction does not matter)", "label": 88}
+{"text": "There is a regular array of rounded rectangles, and the direction of arrangement is not important.", "label": 88}
+{"text": "Rounded rectangles are arranged in a regular array, irrespective of the direction.", "label": 88}
+{"text": "The arrangement direction is irrelevant for this regular array of rounded rectangles.", "label": 88}
+{"text": "A consistent grid of rounded rectangles exists where the orientation of the arrangement is variable.", "label": 88}
+{"text": "Irregular repetition of fine dots", "label": 89}
+{"text": "Fine dots are repeated in a non-uniform pattern.", "label": 89}
+{"text": "An irregular pattern is formed by the repetition of fine dots.", "label": 89}
+{"text": "There is an irregular repetition of small dots.", "label": 89}
+{"text": "A non-uniform, repeating pattern of fine dots is present.", "label": 89}
+{"text": "Irregular repetition of same-sized circles", "label": 90}
+{"text": "Circles of the same size are repeated irregularly.", "label": 90}
+{"text": "An irregular pattern is formed by repeating same-sized circles.", "label": 90}
+{"text": "There is a non-uniform repetition of consistently sized circles.", "label": 90}
+{"text": "The repetition of same-sized circles creates an irregular pattern.", "label": 90}
+{"text": "Zipper pattern repetition", "label": 91}
+{"text": "There is a repeating pattern that resembles a zipper.", "label": 91}
+{"text": "The pattern consists of a repetition of zipper-like shapes.", "label": 91}
+{"text": "A repetitive zipper pattern is observed.", "label": 91}
+{"text": "The design features a repetition of a zipper pattern.", "label": 91}
+{"text": "Irregular repetition of wave patterns", "label": 92}
+{"text": "Wave patterns are repeated in a non-uniform way.", "label": 92}
+{"text": "An irregular repetition of wave-like designs is present.", "label": 92}
+{"text": "There is a non-uniform repetition of wave patterns.", "label": 92}
+{"text": "The irregular repetition of patterns resembling waves is visible.", "label": 92}
+{"text": "Irregular repetition of broken lines", "label": 93}
+{"text": "Broken lines are repeated in an irregular sequence.", "label": 93}
+{"text": "An irregular pattern is formed by repeating broken lines.", "label": 93}
+{"text": "There is a non-uniform repetition of disconnected lines.", "label": 93}
+{"text": "A pattern of irregularly repeated broken lines is observed.", "label": 93}
+{"text": "Irregular repetition of same-sized rectangles", "label": 94}
+{"text": "Rectangles of the same size are repeated irregularly.", "label": 94}
+{"text": "An irregular pattern is formed by the repetition of same-sized rectangles.", "label": 94}
+{"text": "There is a non-uniform repetition of consistently sized rectangles.", "label": 94}
+{"text": "Same-sized rectangles are repeated to create an irregular pattern.", "label": 94}
+{"text": "Intertwined fine spiderweb pattern", "label": 95}
+{"text": "The pattern is composed of fine, intertwined lines resembling a spiderweb.", "label": 95}
+{"text": "There is a pattern of fine, interconnected lines like a spiderweb.", "label": 95}
+{"text": "A delicate, intertwined spiderweb-like pattern is present.", "label": 95}
+{"text": "The design features an intertwined pattern of fine lines that look like a spiderweb.", "label": 95}
+{"text": "Irregular crossing and repetition of adjacent straight lines", "label": 96}
+{"text": "Adjacent straight lines cross and repeat in an irregular manner.", "label": 96}
+{"text": "There is an irregular pattern of crossing and repeating straight lines that are next to each other.", "label": 96}
+{"text": "A non-uniform crossing and repetition of adjacent straight lines is observed.", "label": 96}
+{"text": "The pattern involves the irregular repetition and intersection of neighboring straight lines.", "label": 96}
+{"text": "No pattern (excluding sneakers)", "label": 97}
+{"text": "There is no pattern, and this does not apply to sneakers.", "label": 97}
+{"text": "With the exception of sneakers, there is no discernible pattern.", "label": 97}
+{"text": "A pattern is absent (sneakers are excluded).", "label": 97}
+{"text": "Excluding sneakers, the item has no pattern.", "label": 97}
+{"text": "Horizontal straight line appearing in one section (top, middle, or bottom)", "label": 98}
+{"text": "A horizontal straight line is visible in one section, which could be the top, middle, or bottom.", "label": 98}
+{"text": "In one section (top, middle, or bottom), a horizontal straight line appears.", "label": 98}
+{"text": "One of the sections (top, middle, or bottom) features a horizontal straight line.", "label": 98}
+{"text": "There is a horizontal straight line that shows up in either the top, middle, or bottom section.", "label": 98}
+{"text": "Curved line appearing in one section (slight curve)", "label": 99}
+{"text": "A slightly curved line appears in one section.", "label": 99}
+{"text": "In one section, there is a line with a slight curve.", "label": 99}
+{"text": "One section features a gently curving line.", "label": 99}
+{"text": "A line with a minor curve is visible in one section.", "label": 99}
+{"text": "Diagonal line appearing in one section (top, middle, or bottom)", "label": 100}
+{"text": "A diagonal line is visible in one section, which could be the top, middle, or bottom.", "label": 100}
+{"text": "In one section (top, middle, or bottom), a diagonal line appears.", "label": 100}
+{"text": "One of the sections (top, middle, or bottom) features a diagonal line.", "label": 100}
+{"text": "There is a diagonal line that shows up in either the top, middle, or bottom section.", "label": 100}
+{"text": "A straight line with a single bend (V-shape).", "label": 101}
+{"text": "There is a straight line that has a single, V-shaped bend.", "label": 101}
+{"text": "A single bend in the shape of a 'V' marks the straight line.", "label": 101}
+{"text": "The straight line is characterized by one V-shaped bend.", "label": 101}
+{"text": "A V-shape is formed by a single bend in the straight line.", "label": 101}
+{"text": "Curve with a single period", "label": 102}
+{"text": "The curve completes a single, full cycle.", "label": 102}
+{"text": "There is a curve that has only one period.", "label": 102}
+{"text": "This curve is defined by a single period.", "label": 102}
+{"text": "A single period characterizes this curve.", "label": 102}
+{"text": "Curve exceeding a single period (large wave)", "label": 103}
+{"text": "The curve, which resembles a large wave, extends beyond a single period.", "label": 103}
+{"text": "This large wave-like curve has a period greater than one.", "label": 103}
+{"text": "Exceeding one full cycle, the curve looks like a large wave.", "label": 103}
+{"text": "The curve goes on for more than a single period, forming a large wave.", "label": 103}
+{"text": "Line with more than one bend (mountain shape)", "label": 104}
+{"text": "The line has multiple bends, creating a mountain-like shape.", "label": 104}
+{"text": "A mountain shape is formed by a line with more than one bend.", "label": 104}
+{"text": "This line features several bends, resembling a mountain range.", "label": 104}
+{"text": "With multiple bends, the line takes on the shape of a mountain.", "label": 104}
+{"text": "Curve with a single period (slight curve, small wave)", "label": 105}
+{"text": "The curve, which is slight and resembles a small wave, has a single period.", "label": 105}
+{"text": "A single period defines this curve, which is gentle and forms a small wave.", "label": 105}
+{"text": "This slight curve or small wave completes just one cycle.", "label": 105}
+{"text": "Characterized by a single period, the curve is slight and wave-like.", "label": 105}
+{"text": "Curved line appearing in one section (sharp curve, bow shape)", "label": 106}
+{"text": "A sharply curved line, shaped like a bow, appears in one section.", "label": 106}
+{"text": "In one section, there is a line with a sharp, bow-like curve.", "label": 106}
+{"text": "A line shaped like a bow with a sharp curve is present in one section.", "label": 106}
+{"text": "One section contains a line that curves sharply, resembling a bow.", "label": 106}
+{"text": "Two-bend line appearing in one section (lightning shape, short middle line)", "label": 107}
+{"text": "A line with two bends, resembling a lightning bolt with a short middle line, appears in one section.", "label": 107}
+{"text": "In one section, there is a two-bend line shaped like lightning with a short central part.", "label": 107}
+{"text": "One section features a line with two bends, similar to lightning with a short middle segment.", "label": 107}
+{"text": "A lightning-shaped line with two bends and a short middle appears in one section.", "label": 107}
+{"text": "Crossed curve appearing in one section", "label": 108}
+{"text": "A curve that crosses over itself appears in one section.", "label": 108}
+{"text": "In one section, a crossed curve is visible.", "label": 108}
+{"text": "There is a curve that intersects with itself in one section.", "label": 108}
+{"text": "One section contains a curve that forms a loop or crosses itself.", "label": 108}
+{"text": "Two-bend line appearing in one section (lightning shape, long middle line)", "label": 109}
+{"text": "A line with two bends, resembling a lightning bolt with a long middle line, appears in one section.", "label": 109}
+{"text": "In one section, there is a two-bend line shaped like lightning with a long central part.", "label": 109}
+{"text": "One section features a line with two bends, similar to lightning with a long middle segment.", "label": 109}
+{"text": "A lightning-shaped line with two bends and a long middle appears in one section.", "label": 109}
+{"text": "Connected curve and straight line appearing in one section", "label": 110}
+{"text": "A curve connected to a straight line appears in one section.", "label": 110}
+{"text": "In one section, a connected curve and straight line are visible.", "label": 110}
+{"text": "There is a shape made of a joined curve and straight line in one section.", "label": 110}
+{"text": "One section contains a continuous shape formed by a curve and a straight line.", "label": 110}
+{"text": "Overpass shaped line appearing in one section", "label": 111}
+{"text": "A line shaped like an overpass is visible in one section.", "label": 111}
+{"text": "In one section, a line resembling an overpass appears.", "label": 111}
+{"text": "There is a line with an overpass-like shape in one section.", "label": 111}
+{"text": "One section contains a line that is shaped like an overpass.", "label": 111}
+{"text": "Crossed straight line appearing in one section (top, middle, or bottom)", "label": 112}
+{"text": "A crossed straight line is visible in one section, which could be the top, middle, or bottom.", "label": 112}
+{"text": "In one section (top, middle, or bottom), a crossed straight line appears.", "label": 112}
+{"text": "One of the sections (top, middle, or bottom) features a crossed straight line.", "label": 112}
+{"text": "There is an intersection of straight lines in either the top, middle, or bottom section.", "label": 112}
+{"text": "Line with four bends in a trapezoid shape appearing in one section", "label": 113}
+{"text": "A line with four bends that form a trapezoid shape appears in one section.", "label": 113}
+{"text": "In one section, a four-bended line creates the shape of a trapezoid.", "label": 113}
+{"text": "One section features a line with four bends, resulting in a trapezoid shape.", "label": 113}
+{"text": "A trapezoidal shape formed by a line with four bends is present in one section.", "label": 113}
+{"text": "Line with three bends appearing in one section", "label": 114}
+{"text": "A line containing three bends appears in one section.", "label": 114}
+{"text": "In one section, a line with three bends is visible.", "label": 114}
+{"text": "One section features a line that has three bends.", "label": 114}
+{"text": "There is a line with three distinct bends in one section.", "label": 114}
+{"text": "Case where lines meet at a sharp point", "label": 115}
+{"text": "This is a case in which lines come together at a sharp point.", "label": 115}
+{"text": "Lines converge at a sharp point in this scenario.", "label": 115}
+{"text": "In this instance, lines intersect to form a sharp point.", "label": 115}
+{"text": "This describes a situation where lines meet and form an acute angle.", "label": 115}
+{"text": "Case where lines meet to form a shape", "label": 116}
+{"text": "This is a case in which lines come together to create a shape.", "label": 116}
+{"text": "A shape is formed where lines meet in this scenario.", "label": 116}
+{"text": "This instance describes lines intersecting to form a shape.", "label": 116}
+{"text": "It is a situation where the meeting of lines results in a shape.", "label": 116}
+{"text": "Regular repetition of straight lines parallel to the top/bottom of the shoe (narrow spacing)", "label": 117}
+{"text": "Narrowly spaced straight lines are regularly repeated parallel to the shoe's top or bottom.", "label": 117}
+{"text": "There is a regular repetition of closely spaced straight lines running parallel to the top or bottom of the shoe.", "label": 117}
+{"text": "Parallel to the top/bottom of the shoe, there is a regular pattern of narrowly spaced straight lines.", "label": 117}
+{"text": "Straight lines with narrow spacing repeat regularly, parallel to the shoe's top or bottom edge.", "label": 117}
+{"text": "Regular repetition of diagonal straight lines (narrow spacing)", "label": 118}
+{"text": "Narrowly spaced diagonal straight lines are repeated regularly.", "label": 118}
+{"text": "There is a regular repetition of closely spaced diagonal straight lines.", "label": 118}
+{"text": "The pattern is a regular repetition of diagonal straight lines with little space between them.", "label": 118}
+{"text": "A regular pattern of narrowly spaced diagonal lines is observed.", "label": 118}
+{"text": "Regular repetition of vertical straight lines (narrow spacing)", "label": 119}
+{"text": "Narrowly spaced vertical straight lines are repeated regularly.", "label": 119}
+{"text": "There is a regular repetition of closely spaced vertical straight lines.", "label": 119}
+{"text": "The pattern is a regular repetition of vertical straight lines with little space between them.", "label": 119}
+{"text": "A regular pattern of narrowly spaced vertical lines is observed.", "label": 119}
+{"text": "Regular repetition of crossing lines based on top/bottom and left/right", "label": 120}
+{"text": "Crossing lines are repeated regularly based on top/bottom and left/right divisions.", "label": 120}
+{"text": "There is a regular repetition of intersecting lines according to top/bottom and left/right orientations.", "label": 120}
+{"text": "A regular pattern of crossing lines based on vertical and horizontal alignment is present.", "label": 120}
+{"text": "The repetition of crossing lines is regular and is based on a top/bottom and left/right structure.", "label": 120}
+{"text": "Repetition of continuous curves in a concentric form (spacing widens or narrows)", "label": 121}
+{"text": "Continuous curves are repeated in a concentric form, with spacing that either widens or narrows.", "label": 121}
+{"text": "There is a repetition of concentric, continuous curves where the spacing between them varies.", "label": 121}
+{"text": "A concentric pattern of continuous curves is repeated, and the spacing can increase or decrease.", "label": 121}
+{"text": "The repetition of continuous curves in a concentric shape features variable spacing.", "label": 121}
+{"text": "Repetitive array of gentle curves at regular intervals", "label": 122}
+{"text": "An array of gentle curves is repeated at regular intervals.", "label": 122}
+{"text": "There is a repetitive grid of slight curves spaced at regular intervals.", "label": 122}
+{"text": "Gentle curves appear in a repetitive array with consistent spacing.", "label": 122}
+{"text": "At regular intervals, a repetitive array of gentle curves is observed.", "label": 122}
+{"text": "Repetitive array of straight lines (connected in the middle by a mountain shape)", "label": 123}
+{"text": "There is a repetitive array of straight lines that are connected in the middle by a mountain shape.", "label": 123}
+{"text": "A repeating grid of straight lines is connected at the center by a mountain shape.", "label": 123}
+{"text": "The pattern features a repetitive array of straight lines joined in the middle by a mountain shape.", "label": 123}
+{"text": "A mountain shape connects a repetitive array of straight lines in the middle.", "label": 123}
+{"text": "Repetition of 3-4 straight lines (wide spacing)", "label": 124}
+{"text": "There is a repetition of three to four straight lines with wide spacing between them.", "label": 124}
+{"text": "Widely spaced, 3-4 straight lines are repeated.", "label": 124}
+{"text": "The pattern consists of a repetition of 3 or 4 straight lines that are far apart.", "label": 124}
+{"text": "A repetition of three or four widely spaced straight lines is observed.", "label": 124}
+{"text": "Continuous wave curve repeating at regular intervals (2 or more periods)", "label": 125}
+{"text": "A continuous wave curve that repeats for 2 or more periods is present at regular intervals.", "label": 125}
+{"text": "Repeating at regular intervals, the continuous wave curve spans two or more periods.", "label": 125}
+{"text": "There is a continuous wave curve that repeats at regular intervals, lasting for at least 2 periods.", "label": 125}
+{"text": "The pattern is a continuous wave curve with a repetition of 2 or more periods at regular intervals.", "label": 125}
+{"text": "Combined array of continuous convex curves and straight lines", "label": 126}
+{"text": "There is a combined array featuring both continuous convex curves and straight lines.", "label": 126}
+{"text": "A combination of continuous convex curves and straight lines forms an array.", "label": 126}
+{"text": "The array is a mixture of continuous, outwardly curved lines and straight lines.", "label": 126}
+{"text": "A pattern combines an array of continuous convex curves with straight lines.", "label": 126}
+{"text": "Regular repetitive array of mountain shapes (single period)", "label": 127}
+{"text": "A regular, repeating array of mountain shapes completes a single period.", "label": 127}
+{"text": "The pattern is a regular repetitive grid of mountain shapes that lasts for one cycle.", "label": 127}
+{"text": "There is a regular array of repeating mountain shapes within a single period.", "label": 127}
+{"text": "A single period contains a regular repetitive array of mountain shapes.", "label": 127}
+{"text": "Regular repetitive array of mountain shapes exceeding a single period", "label": 128}
+{"text": "A regular, repeating array of mountain shapes extends beyond a single period.", "label": 128}
+{"text": "The pattern is a regular repetitive grid of mountain shapes that lasts for more than one cycle.", "label": 128}
+{"text": "There is a regular array of repeating mountain shapes which exceeds a single period.", "label": 128}
+{"text": "Mountain shapes in a regular, repetitive array continue for more than a single period.", "label": 128}
+{"text": "Combined array of continuous straight lines and mountain shapes", "label": 129}
+{"text": "There is a combined array that includes continuous straight lines and mountain shapes.", "label": 129}
+{"text": "A combination of continuous straight lines and mountain shapes forms an array.", "label": 129}
+{"text": "The array is a mixture of continuous straight lines and mountain shapes.", "label": 129}
+{"text": "A pattern combines an array of continuous straight lines with mountain shapes.", "label": 129}
+{"text": "A continuous vertical arrangement of a seagull pattern (repeats once, with a uniform edge and center).", "label": 130}
+{"text": "There is a continuous vertical arrangement of a seagull pattern that repeats one time with a uniform edge and center.", "label": 130}
+{"text": "A single repetition of a seagull pattern is arranged continuously and vertically, featuring a uniform edge and center.", "label": 130}
+{"text": "With a consistent edge and center, a seagull pattern is arranged vertically and continuously, repeating once.", "label": 130}
+{"text": "A one-time repeating seagull pattern is arranged in a continuous vertical line with a uniform edge and center.", "label": 130}
+{"text": "Continuous array of radiating straight lines", "label": 131}
+{"text": "There is a continuous array of straight lines that radiate outwards.", "label": 131}
+{"text": "A non-stop array of radiating straight lines is present.", "label": 131}
+{"text": "The pattern is a continuous array of straight lines emanating from a central point.", "label": 131}
+{"text": "Radiating straight lines form a continuous array.", "label": 131}
+{"text": "Continuous array of radiating curved lines", "label": 132}
+{"text": "There is a continuous array of curved lines that radiate outwards.", "label": 132}
+{"text": "A non-stop array of radiating curved lines is present.", "label": 132}
+{"text": "The pattern is a continuous array of curved lines emanating from a central point.", "label": 132}
+{"text": "Radiating curved lines form a continuous array.", "label": 132}
+{"text": "Continuous array of mountain shapes with narrowing edges", "label": 133}
+{"text": "There is a continuous array of mountain shapes whose edges become narrower.", "label": 133}
+{"text": "A non-stop array of mountain shapes with tapering edges is present.", "label": 133}
+{"text": "The pattern is a continuous array of mountain shapes with edges that narrow.", "label": 133}
+{"text": "Mountain shapes with narrowing edges form a continuous array.", "label": 133}
+{"text": "Convex curve with narrowing ends, repeating at regular intervals", "label": 134}
+{"text": "A convex curve with ends that narrow repeats at regular intervals.", "label": 134}
+{"text": "Repeating at regular intervals, there is a convex curve with tapering ends.", "label": 134}
+{"text": "A convex curve that narrows at the ends is repeated at regular intervals.", "label": 134}
+{"text": "The pattern is a repeating convex curve with narrowing ends, spaced at regular intervals.", "label": 134}
+{"text": "Repetitive array of pencil-lead shaped lines", "label": 135}
+{"text": "There is a repetitive array of lines shaped like pencil lead.", "label": 135}
+{"text": "Lines shaped like pencil lead are arranged in a repetitive array.", "label": 135}
+{"text": "The pattern consists of a repeating grid of pencil-lead shaped lines.", "label": 135}
+{"text": "A repetitive array is formed by lines that resemble pencil lead.", "label": 135}
+{"text": "Continuous wave curve repeating at regular intervals (1.5 periods)", "label": 136}
+{"text": "A continuous wave curve that repeats every 1.5 periods is present at regular intervals.", "label": 136}
+{"text": "Repeating at regular intervals, the continuous wave curve has a 1.5 period cycle.", "label": 136}
+{"text": "There is a continuous wave curve that repeats at regular intervals, spanning 1.5 periods.", "label": 136}
+{"text": "The pattern is a continuous wave curve with a 1.5 period repetition at regular intervals.", "label": 136}
+{"text": "Continuous array of lines with two bends and a short middle section", "label": 137}
+{"text": "A continuous array is formed by lines that have two bends and a short middle section.", "label": 137}
+{"text": "The pattern is a non-stop array of lines featuring two bends and a short central part.", "label": 137}
+{"text": "There is a continuous grid of lines, each with two bends and a short middle segment.", "label": 137}
+{"text": "Lines with two bends and a short middle section make up a continuous array.", "label": 137}
+{"text": "Irregular net shape", "label": 138}
+{"text": "The shape is an irregular net.", "label": 138}
+{"text": "It has the shape of an irregular net.", "label": 138}
+{"text": "The item is shaped like a non-uniform net.", "label": 138}
+{"text": "A shape resembling an irregular net is present.", "label": 138}
+{"text": "Continuous brick pattern", "label": 139}
+{"text": "The pattern is a continuous brick-like arrangement.", "label": 139}
+{"text": "There is a continuous pattern that resembles bricks.", "label": 139}
+{"text": "A non-stop brick pattern is observed.", "label": 139}
+{"text": "The arrangement consists of a continuous pattern of bricks.", "label": 139}
+{"text": "Bone-shaped curves arranged continuously vertically and horizontally.", "label": 140}
+{"text": "Curves shaped like bones are arranged in a continuous vertical and horizontal pattern.", "label": 140}
+{"text": "There is a continuous arrangement of bone-shaped curves both vertically and horizontally.", "label": 140}
+{"text": "Bone-shaped curves form a continuous grid both up-and-down and side-to-side.", "label": 140}
+{"text": "Vertically and horizontally, bone-shaped curves are continuously arranged.", "label": 140}
+{"text": "A continuous arrangement of narrow, wave-pattern ripples (curtain-like shape).", "label": 141}
+{"text": "There is a continuous arrangement of narrow ripples in a wave pattern, resembling a curtain.", "label": 141}
+{"text": "A continuous, curtain-like shape is formed by narrow, wave-patterned ripples.", "label": 141}
+{"text": "The arrangement is a continuous pattern of thin, wavy ripples that look like a curtain.", "label": 141}
+{"text": "Narrow ripples in a wave pattern create a continuous, curtain-like arrangement.", "label": 141}
+{"text": "Continuous array of spatula-shaped lines", "label": 142}
+{"text": "There is a continuous array of lines shaped like spatulas.", "label": 142}
+{"text": "The pattern is a non-stop array of spatula-shaped lines.", "label": 142}
+{"text": "A continuous array is formed by lines that resemble spatulas.", "label": 142}
+{"text": "Spatula-shaped lines are arranged in a continuous array.", "label": 142}
+{"text": "Continuous array of lines and rectangles", "label": 143}
+{"text": "There is a continuous array composed of lines and rectangles.", "label": 143}
+{"text": "Lines and rectangles are arranged in a continuous array.", "label": 143}
+{"text": "The pattern is a non-stop array of lines and rectangles.", "label": 143}
+{"text": "A continuous array is formed by the combination of lines and rectangles.", "label": 143}
+{"text": "Continuous array of radio-wave shaped curves", "label": 144}
+{"text": "There is a continuous array of curves shaped like radio waves.", "label": 144}
+{"text": "The pattern is a non-stop array of radio-wave shaped curves.", "label": 144}
+{"text": "A continuous array is formed by curves that resemble radio waves.", "label": 144}
+{"text": "Radio-wave shaped curves are arranged in a continuous array.", "label": 144}
+{"text": "Continuous array of eyeglass-shaped curves and lines", "label": 145}
+{"text": "There is a continuous array of curves and lines that are shaped like eyeglasses.", "label": 145}
+{"text": "The pattern is a non-stop array of eyeglass-shaped curves and lines.", "label": 145}
+{"text": "A continuous array is formed by curves and lines that resemble eyeglasses.", "label": 145}
+{"text": "Eyeglass-shaped curves and lines are arranged in a continuous array.", "label": 145}
+{"text": "Twist-like shapes arranged continuously.", "label": 146}
+{"text": "Shapes that resemble twists are arranged in a continuous pattern.", "label": 146}
+{"text": "There is a continuous arrangement of twist-like shapes.", "label": 146}
+{"text": "A continuous pattern is formed by shapes that look like twists.", "label": 146}
+{"text": "The arrangement consists of a continuous sequence of twist-like shapes.", "label": 146}
+{"text": "An irregular repetition of a continuous mountain shape.", "label": 147}
+{"text": "A continuous mountain shape is repeated in an irregular pattern.", "label": 147}
+{"text": "There is an irregular repetition of a non-stop mountain shape.", "label": 147}
+{"text": "The pattern involves the irregular repetition of a continuous mountain shape.", "label": 147}
+{"text": "An irregular repetition is formed by a continuous mountain shape.", "label": 147}
+{"text": "Irregular repetition of continuous wave shapes", "label": 148}
+{"text": "Continuous wave shapes are repeated in an irregular pattern.", "label": 148}
+{"text": "There is an irregular repetition of non-stop wave shapes.", "label": 148}
+{"text": "The pattern involves the irregular repetition of continuous wave shapes.", "label": 148}
+{"text": "An irregular repetition is formed by continuous wave shapes.", "label": 148}
+{"text": "Equilateral triangle", "label": 149}
+{"text": "The shape is an equilateral triangle.", "label": 149}
+{"text": "An equilateral triangle is present.", "label": 149}
+{"text": "It has the form of an equilateral triangle.", "label": 149}
+{"text": "The shape of an equilateral triangle is observed.", "label": 149}
+{"text": "Elongated isosceles triangle", "label": 150}
+{"text": "The shape is an elongated isosceles triangle.", "label": 150}
+{"text": "An elongated isosceles triangle is present.", "label": 150}
+{"text": "It has the form of a stretched-out isosceles triangle.", "label": 150}
+{"text": "The shape of an elongated isosceles triangle is observed.", "label": 150}
+{"text": "Right-angled triangle", "label": 151}
+{"text": "The shape is a right-angled triangle.", "label": 151}
+{"text": "A right-angled triangle is present.", "label": 151}
+{"text": "It has the form of a right-angled triangle.", "label": 151}
+{"text": "The shape of a right-angled triangle is observed.", "label": 151}
+{"text": "Irregular triangle", "label": 152}
+{"text": "The shape is an irregular triangle.", "label": 152}
+{"text": "An irregular triangle is present.", "label": 152}
+{"text": "It has the form of a non-uniform triangle.", "label": 152}
+{"text": "The shape of an irregular triangle is observed.", "label": 152}
+{"text": "Shape of three or more stacked pyramid triangles", "label": 153}
+{"text": "The shape consists of three or more pyramid triangles stacked on top of each other.", "label": 153}
+{"text": "It has the shape of three or more stacked pyramid triangles.", "label": 153}
+{"text": "The form is of at least three pyramid triangles, one stacked on the other.", "label": 153}
+{"text": "A shape resembling three or more stacked pyramid triangles is present.", "label": 153}
+{"text": "Triangle with a circle inside", "label": 154}
+{"text": "The shape is a triangle with a circle inside it.", "label": 154}
+{"text": "A triangle containing a circle is present.", "label": 154}
+{"text": "It has the form of a triangle with an inner circle.", "label": 154}
+{"text": "A circle is located inside a triangle in this shape.", "label": 154}
+{"text": "Shape with a triangle inside a triangle (double triangle)", "label": 155}
+{"text": "The shape consists of a triangle that is inside another triangle, forming a double triangle.", "label": 155}
+{"text": "It is a double triangle shape, with one triangle placed inside another.", "label": 155}
+{"text": "The shape is a triangle containing an inner triangle.", "label": 155}
+{"text": "A double triangle is formed by a shape with a triangle inside a triangle.", "label": 155}
+{"text": "Acute triangle with one curved side", "label": 156}
+{"text": "The shape is an acute triangle that has one curved side.", "label": 156}
+{"text": "An acute triangle with one side that is curved is present.", "label": 156}
+{"text": "It has the form of an acute triangle with a single curved side.", "label": 156}
+{"text": "The shape of an acute triangle with one curved side is observed.", "label": 156}
+{"text": "Obtuse triangle with one curved side", "label": 157}
+{"text": "The shape is an obtuse triangle that has one curved side.", "label": 157}
+{"text": "An obtuse triangle with one side that is curved is present.", "label": 157}
+{"text": "It has the form of an obtuse triangle with a single curved side.", "label": 157}
+{"text": "The shape of an obtuse triangle with one curved side is observed.", "label": 157}
+{"text": "Triangle with two convexly curved sides", "label": 158}
+{"text": "The shape is a triangle with two sides that are convexly curved.", "label": 158}
+{"text": "A triangle with two outwardly curved sides is present.", "label": 158}
+{"text": "It has the form of a triangle with two convex curves for sides.", "label": 158}
+{"text": "The shape of a triangle with two convexly curved sides is observed.", "label": 158}
+{"text": "Irregular triangle with a groove on one side", "label": 159}
+{"text": "The shape is an irregular triangle with a groove on one of its sides.", "label": 159}
+{"text": "An irregular triangle featuring a groove on one side is present.", "label": 159}
+{"text": "It has the form of an irregular triangle with a single grooved side.", "label": 159}
+{"text": "The shape of an irregular triangle with a groove on one side is observed.", "label": 159}
+{"text": "Triangle with two convex sides and one concave side", "label": 160}
+{"text": "The shape is a triangle with two convex sides and a single concave side.", "label": 160}
+{"text": "A triangle with two outwardly curved sides and one inwardly curved side is present.", "label": 160}
+{"text": "It has the form of a triangle with two convex and one concave side.", "label": 160}
+{"text": "The shape of a triangle with two convex sides and one concave side is observed.", "label": 160}
+{"text": "Triangle with two concave sides and one convex side", "label": 161}
+{"text": "The shape is a triangle with two concave sides and a single convex side.", "label": 161}
+{"text": "A triangle with two inwardly curved sides and one outwardly curved side is present.", "label": 161}
+{"text": "It has the form of a triangle with two concave and one convex side.", "label": 161}
+{"text": "The shape of a triangle with two concave sides and one convex side is observed.", "label": 161}
+{"text": "A hanger-shaped triangle.", "label": 162}
+{"text": "The shape is a triangle that resembles a hanger.", "label": 162}
+{"text": "A triangle shaped like a hanger is present.", "label": 162}
+{"text": "It has the form of a hanger-shaped triangle.", "label": 162}
+{"text": "The shape of a hanger-like triangle is observed.", "label": 162}
+{"text": "Irregular triangle with the middle section cut out", "label": 163}
+{"text": "The shape is an irregular triangle with its middle section removed.", "label": 163}
+{"text": "An irregular triangle with a cutout in its center is present.", "label": 163}
+{"text": "It has the form of an irregular triangle with a hollow middle section.", "label": 163}
+{"text": "The shape of an irregular triangle with the middle section cut out is observed.", "label": 163}
+{"text": "Triangle with one concave side and one convex side", "label": 164}
+{"text": "The shape is a triangle with one concave and one convex side.", "label": 164}
+{"text": "A triangle with one inwardly curved and one outwardly curved side is present.", "label": 164}
+{"text": "It has the form of a triangle with a single concave and convex side.", "label": 164}
+{"text": "The shape of a triangle with one concave and one convex side is observed.", "label": 164}
+{"text": "Square", "label": 165}
+{"text": "The shape is a square.", "label": 165}
+{"text": "A square is present.", "label": 165}
+{"text": "It has the form of a square.", "label": 165}
+{"text": "The shape of a square is observed.", "label": 165}
+{"text": "Rectangle", "label": 166}
+{"text": "The shape is a rectangle.", "label": 166}
+{"text": "A rectangle is present.", "label": 166}
+{"text": "It has the form of a rectangle.", "label": 166}
+{"text": "The shape of a rectangle is observed.", "label": 166}
+{"text": "Parallelogram", "label": 167}
+{"text": "The shape is a parallelogram.", "label": 167}
+{"text": "A parallelogram is present.", "label": 167}
+{"text": "It has the form of a parallelogram.", "label": 167}
+{"text": "The shape of a parallelogram is observed.", "label": 167}
+{"text": "Short trapezoid", "label": 168}
+{"text": "The shape is a short trapezoid.", "label": 168}
+{"text": "A short trapezoid is present.", "label": 168}
+{"text": "It has the form of a short trapezoid.", "label": 168}
+{"text": "The shape of a short trapezoid is observed.", "label": 168}
+{"text": "Right-angled trapezoid with a short hypotenuse", "label": 169}
+{"text": "The shape is a right-angled trapezoid that has a short hypotenuse.", "label": 169}
+{"text": "A right-angled trapezoid with a short hypotenuse is present.", "label": 169}
+{"text": "It has the form of a right-angled trapezoid with a short longest side.", "label": 169}
+{"text": "The shape of a right-angled trapezoid with a short hypotenuse is observed.", "label": 169}
+{"text": "Rhombus", "label": 170}
+{"text": "The shape is a rhombus.", "label": 170}
+{"text": "A rhombus is present.", "label": 170}
+{"text": "It has the form of a rhombus.", "label": 170}
+{"text": "The shape of a rhombus is observed.", "label": 170}
+{"text": "Rectangle with a rectangle inside (double rectangle)", "label": 171}
+{"text": "The shape is a rectangle with another rectangle inside, forming a double rectangle.", "label": 171}
+{"text": "A double rectangle, which is a rectangle within a rectangle, is present.", "label": 171}
+{"text": "It has the form of a rectangle containing an inner rectangle.", "label": 171}
+{"text": "The shape of a double rectangle is observed.", "label": 171}
+{"text": "Irregular rectangle", "label": 172}
+{"text": "The shape is an irregular rectangle.", "label": 172}
+{"text": "An irregular rectangle is present.", "label": 172}
+{"text": "It has the form of a non-uniform rectangle.", "label": 172}
+{"text": "The shape of an irregular rectangle is observed.", "label": 172}
+{"text": "Rectangle with a circle inside", "label": 173}
+{"text": "The shape is a rectangle with a circle inside it.", "label": 173}
+{"text": "A rectangle containing a circle is present.", "label": 173}
+{"text": "It has the form of a rectangle with an inner circle.", "label": 173}
+{"text": "A circle is located inside a rectangle.", "label": 173}
+{"text": "Pyramid of three or more stacked rectangles", "label": 174}
+{"text": "The shape is a pyramid made of three or more stacked rectangles.", "label": 174}
+{"text": "A pyramid consisting of at least three stacked rectangles is present.", "label": 174}
+{"text": "It has the form of a multi-level pyramid of rectangles.", "label": 174}
+{"text": "The shape of a pyramid with three or more stacked rectangles is observed.", "label": 174}
+{"text": "Rectangle with one concave side", "label": 175}
+{"text": "The shape is a rectangle that has one concave side.", "label": 175}
+{"text": "A rectangle with a single inwardly curved side is present.", "label": 175}
+{"text": "It has the form of a rectangle with one concave side.", "label": 175}
+{"text": "The shape of a rectangle with one concave side is observed.", "label": 175}
+{"text": "Rectangle with one convex side", "label": 176}
+{"text": "The shape is a rectangle that has one convex side.", "label": 176}
+{"text": "A rectangle with a single outwardly curved side is present.", "label": 176}
+{"text": "It has the form of a rectangle with one convex side.", "label": 176}
+{"text": "The shape of a rectangle with one convex side is observed.", "label": 176}
+{"text": "Rectangle with two convex and two concave sides (mortar shape)", "label": 177}
+{"text": "The shape is a rectangle with two convex and two concave sides, resembling a mortar.", "label": 177}
+{"text": "A mortar-shaped rectangle with two outwardly and two inwardly curved sides is present.", "label": 177}
+{"text": "It has the form of a rectangle with two convex and two concave sides, like a mortar.", "label": 177}
+{"text": "The shape of a mortar, a rectangle with two convex and two concave sides, is observed.", "label": 177}
+{"text": "Irregular rectangle with two convex sides", "label": 178}
+{"text": "The shape is an irregular rectangle with two convex sides.", "label": 178}
+{"text": "An irregular rectangle featuring two outwardly curved sides is present.", "label": 178}
+{"text": "It has the form of an irregular rectangle with two convex sides.", "label": 178}
+{"text": "The shape of an irregular rectangle with two convex sides is observed.", "label": 178}
+{"text": "Radial rectangle", "label": 179}
+{"text": "The shape is a radial rectangle.", "label": 179}
+{"text": "A radial rectangle is present.", "label": 179}
+{"text": "It has the form of a rectangle with radial properties.", "label": 179}
+{"text": "The shape of a radial rectangle is observed.", "label": 179}
+{"text": "Severely narrowing radial rectangle", "label": 180}
+{"text": "The shape is a radial rectangle that narrows severely.", "label": 180}
+{"text": "A severely narrowing radial rectangle is present.", "label": 180}
+{"text": "It has the form of a radial rectangle that becomes very narrow.", "label": 180}
+{"text": "The shape of a severely narrowing radial rectangle is observed.", "label": 180}
+{"text": "Dented rectangle", "label": 181}
+{"text": "The shape is a rectangle with a dent in it.", "label": 181}
+{"text": "A dented rectangle is present.", "label": 181}
+{"text": "It has the form of a rectangle that is dented.", "label": 181}
+{"text": "The shape of a dented rectangle is observed.", "label": 181}
+{"text": "Rectangle with one concave and one convex side, with the two straight sides being parallel", "label": 182}
+{"text": "The shape is a rectangle with one concave and one convex side, where the two straight sides are parallel.", "label": 182}
+{"text": "A rectangle with one inwardly and one outwardly curved side and two parallel straight sides is present.", "label": 182}
+{"text": "It has one concave, one convex, and two parallel straight sides.", "label": 182}
+{"text": "The shape is a rectangle with parallel straight sides, one concave side, and one convex side.", "label": 182}
+{"text": "Rectangle with one curved side", "label": 183}
+{"text": "The shape is a rectangle that has one curved side.", "label": 183}
+{"text": "A rectangle with a single curved side is present.", "label": 183}
+{"text": "It has the form of a rectangle with one of its sides curved.", "label": 183}
+{"text": "The shape of a rectangle with one curved side is observed.", "label": 183}
+{"text": "Morning star-shaped irregular rectangle", "label": 184}
+{"text": "The shape is an irregular rectangle that resembles a morning star.", "label": 184}
+{"text": "A morning star-shaped irregular rectangle is present.", "label": 184}
+{"text": "It has the form of an irregular rectangle shaped like a morning star.", "label": 184}
+{"text": "The shape of a morning star-like irregular rectangle is observed.", "label": 184}
+{"text": "Irregular rectangle with a shape inside", "label": 185}
+{"text": "The shape is an irregular rectangle with another shape inside it.", "label": 185}
+{"text": "An irregular rectangle containing a shape is present.", "label": 185}
+{"text": "It has the form of an irregular rectangle with an inner shape.", "label": 185}
+{"text": "A shape is located inside an irregular rectangle.", "label": 185}
+{"text": "Rectangle with two convex sides", "label": 186}
+{"text": "The shape is a rectangle that has two convex sides.", "label": 186}
+{"text": "A rectangle with two outwardly curved sides is present.", "label": 186}
+{"text": "It has the form of a rectangle with two convex sides.", "label": 186}
+{"text": "The shape of a rectangle with two convex sides is observed.", "label": 186}
+{"text": "Rectangle with one gently curved side", "label": 187}
+{"text": "The shape is a rectangle with one side that is gently curved.", "label": 187}
+{"text": "A rectangle with a single, slightly curved side is present.", "label": 187}
+{"text": "It has the form of a rectangle with one gently curved side.", "label": 187}
+{"text": "The shape of a rectangle with one gently curved side is observed.", "label": 187}
+{"text": "Rectangle with one side shaped like a hill", "label": 188}
+{"text": "The shape is a rectangle with one side that is shaped like a hill.", "label": 188}
+{"text": "A rectangle with a single hill-shaped side is present.", "label": 188}
+{"text": "It has the form of a rectangle with one side resembling a hill.", "label": 188}
+{"text": "The shape of a rectangle with a hill-like side is observed.", "label": 188}
+{"text": "Rectangle with two concave sides", "label": 189}
+{"text": "The shape is a rectangle that has two concave sides.", "label": 189}
+{"text": "A rectangle with two inwardly curved sides is present.", "label": 189}
+{"text": "It has the form of a rectangle with two concave sides.", "label": 189}
+{"text": "The shape of a rectangle with two concave sides is observed.", "label": 189}
+{"text": "Rectangle with one concave side", "label": 190}
+{"text": "The shape is a rectangle that has one concave side.", "label": 190}
+{"text": "A rectangle with a single inwardly curved side is present.", "label": 190}
+{"text": "It has the form of a rectangle with one concave side.", "label": 190}
+{"text": "The shape of a rectangle with one concave side is observed.", "label": 190}
+{"text": "An irregular rectangle shaped like a winding road.", "label": 191}
+{"text": "The shape is an irregular rectangle that resembles a winding road.", "label": 191}
+{"text": "An irregular rectangle shaped like a winding road is present.", "label": 191}
+{"text": "It has the form of an irregular rectangle that looks like a winding road.", "label": 191}
+{"text": "The shape of an irregular, winding-road-like rectangle is observed.", "label": 191}
+{"text": "Regular pentagon", "label": 192}
+{"text": "The shape is a regular pentagon.", "label": 192}
+{"text": "A regular pentagon is present.", "label": 192}
+{"text": "It has the form of a regular pentagon.", "label": 192}
+{"text": "The shape of a regular pentagon is observed.", "label": 192}
+{"text": "Pentagon", "label": 193}
+{"text": "The shape is a pentagon.", "label": 193}
+{"text": "A pentagon is present.", "label": 193}
+{"text": "It has the form of a pentagon.", "label": 193}
+{"text": "The shape of a pentagon is observed.", "label": 193}
+{"text": "A pentagon with two adjacent sides that are concave and convex.", "label": 194}
+{"text": "The shape is a pentagon with two adjacent sides, one being concave and the other convex.", "label": 194}
+{"text": "A pentagon with two neighboring sides that are concave and convex is present.", "label": 194}
+{"text": "It has the form of a pentagon with two adjacent concave and convex sides.", "label": 194}
+{"text": "The shape of a pentagon with two adjacent sides, one concave and one convex, is observed.", "label": 194}
+{"text": "Indented pentagon", "label": 195}
+{"text": "The shape is a pentagon with an indentation.", "label": 195}
+{"text": "An indented pentagon is present.", "label": 195}
+{"text": "It has the form of a pentagon that is indented.", "label": 195}
+{"text": "The shape of an indented pentagon is observed.", "label": 195}
+{"text": "Pentagon with one curved side", "label": 196}
+{"text": "The shape is a pentagon that has one curved side.", "label": 196}
+{"text": "A pentagon with a single curved side is present.", "label": 196}
+{"text": "It has the form of a pentagon with one of its sides curved.", "label": 196}
+{"text": "The shape of a pentagon with one curved side is observed.", "label": 196}
+{"text": "Regular hexagon", "label": 197}
+{"text": "The shape is a regular hexagon.", "label": 197}
+{"text": "A regular hexagon is present.", "label": 197}
+{"text": "It has the form of a regular hexagon.", "label": 197}
+{"text": "The shape of a regular hexagon is observed.", "label": 197}
+{"text": "Case where another shape is inside the hexagon", "label": 198}
+{"text": "This is a case in which another shape is located inside the hexagon.", "label": 198}
+{"text": "In this scenario, there is a different shape within the hexagon.", "label": 198}
+{"text": "This describes a situation where a hexagon contains another shape.", "label": 198}
+{"text": "An inner shape is present inside the hexagon in this case.", "label": 198}
+{"text": "Tetris-shaped polygon", "label": 199}
+{"text": "The shape is a polygon that resembles a Tetris block.", "label": 199}
+{"text": "A Tetris-shaped polygon is present.", "label": 199}
+{"text": "It has the form of a polygon shaped like a Tetris piece.", "label": 199}
+{"text": "The shape of a Tetris-like polygon is observed.", "label": 199}
+{"text": "Cross shape with four pointed ends", "label": 200}
+{"text": "The shape is a cross with four pointed ends.", "label": 200}
+{"text": "A cross shape featuring four pointed ends is present.", "label": 200}
+{"text": "It has the form of a cross with four sharp ends.", "label": 200}
+{"text": "The shape of a cross with four pointed ends is observed.", "label": 200}
+{"text": "Plus-sign shape", "label": 201}
+{"text": "The shape resembles a plus sign.", "label": 201}
+{"text": "A plus-sign shape is present.", "label": 201}
+{"text": "It has the form of a plus sign.", "label": 201}
+{"text": "The shape of a plus sign is observed.", "label": 201}
+{"text": "Y-shaped polygon", "label": 202}
+{"text": "The shape is a polygon that resembles the letter Y.", "label": 202}
+{"text": "A Y-shaped polygon is present.", "label": 202}
+{"text": "It has the form of a Y-shaped polygon.", "label": 202}
+{"text": "The shape of a Y-like polygon is observed.", "label": 202}
+{"text": "Octagon shape", "label": 203}
+{"text": "The shape is an octagon.", "label": 203}
+{"text": "An octagon shape is present.", "label": 203}
+{"text": "It has the form of an octagon.", "label": 203}
+{"text": "The shape of an octagon is observed.", "label": 203}
+{"text": "Deformed Tetris-shaped polygon", "label": 204}
+{"text": "The shape is a deformed polygon that resembles a Tetris block.", "label": 204}
+{"text": "A deformed Tetris-shaped polygon is present.", "label": 204}
+{"text": "It has the form of a misshapen, Tetris-like polygon.", "label": 204}
+{"text": "The shape of a deformed, Tetris-style polygon is observed.", "label": 204}
+{"text": "Quadrilateral with two indented sides", "label": 205}
+{"text": "The shape is a quadrilateral that has two indented sides.", "label": 205}
+{"text": "A quadrilateral with two of its sides indented is present.", "label": 205}
+{"text": "It has the form of a quadrilateral with two indented sides.", "label": 205}
+{"text": "The shape of a quadrilateral with two indented sides is observed.", "label": 205}
+{"text": "Polygon with angular, finger-like projections", "label": 206}
+{"text": "The shape is a polygon with angular projections that look like fingers.", "label": 206}
+{"text": "A polygon with angular, finger-like extensions is present.", "label": 206}
+{"text": "It has the form of a polygon with sharp, finger-like projections.", "label": 206}
+{"text": "The shape of a polygon with angular, finger-like protrusions is observed.", "label": 206}
+{"text": "Indented shape on one side of a double rectangle", "label": 207}
+{"text": "There is an indented shape on one side of a double rectangle.", "label": 207}
+{"text": "An indented shape is present on one side of a double rectangle.", "label": 207}
+{"text": "One side of a double rectangle has an indented shape on it.", "label": 207}
+{"text": "An indented shape can be seen on one side of a double rectangle.", "label": 207}
+{"text": "Bell-shaped polygon", "label": 208}
+{"text": "The shape is a polygon that resembles a bell.", "label": 208}
+{"text": "A bell-shaped polygon is present.", "label": 208}
+{"text": "It has the form of a polygon shaped like a bell.", "label": 208}
+{"text": "The shape of a bell-like polygon is observed.", "label": 208}
+{"text": "Cross shape with four rounded ends", "label": 209}
+{"text": "The shape is a cross with four rounded ends.", "label": 209}
+{"text": "A cross shape featuring four rounded ends is present.", "label": 209}
+{"text": "It has the form of a cross with four smooth ends.", "label": 209}
+{"text": "The shape of a cross with four rounded ends is observed.", "label": 209}
+{"text": "Trapezoid with one indented side", "label": 210}
+{"text": "The shape is a trapezoid that has one indented side.", "label": 210}
+{"text": "A trapezoid with a single indented side is present.", "label": 210}
+{"text": "It has the form of a trapezoid with one of its sides indented.", "label": 210}
+{"text": "The shape of a trapezoid with one indented side is observed.", "label": 210}
+{"text": "K, h-shaped polygons.", "label": 211}
+{"text": "The shapes are polygons that resemble the letters K and h.", "label": 211}
+{"text": "K-shaped and h-shaped polygons are present.", "label": 211}
+{"text": "They have the form of polygons shaped like K and h.", "label": 211}
+{"text": "The shapes of K-like and h-like polygons are observed.", "label": 211}
+{"text": "Z-shaped polygon", "label": 212}
+{"text": "The shape is a polygon that resembles the letter Z.", "label": 212}
+{"text": "A Z-shaped polygon is present.", "label": 212}
+{"text": "It has the form of a Z-shaped polygon.", "label": 212}
+{"text": "The shape of a Z-like polygon is observed.", "label": 212}
+{"text": "Regular pentagon with each side indented", "label": 213}
+{"text": "The shape is a regular pentagon where each side is indented.", "label": 213}
+{"text": "A regular pentagon with all of its sides indented is present.", "label": 213}
+{"text": "It has the form of a regular pentagon with indentations on every side.", "label": 213}
+{"text": "The shape of a regular pentagon with each side indented is observed.", "label": 213}
+{"text": "Regular pentagon with one indented side", "label": 214}
+{"text": "The shape is a regular pentagon with one side that is indented.", "label": 214}
+{"text": "A regular pentagon featuring one indented side is present.", "label": 214}
+{"text": "It has the form of a regular pentagon with a single indented side.", "label": 214}
+{"text": "The shape of a regular pentagon with one indented side is observed.", "label": 214}
+{"text": "Regular pentagon with one mountain-shaped side", "label": 215}
+{"text": "The shape is a regular pentagon with one side that is shaped like a mountain.", "label": 215}
+{"text": "A regular pentagon featuring one mountain-shaped side is present.", "label": 215}
+{"text": "It has the form of a regular pentagon with a single mountain-like side.", "label": 215}
+{"text": "The shape of a regular pentagon with one mountain-shaped side is observed.", "label": 215}
+{"text": "Tilted ㄴ-shaped polygon", "label": 216}
+{"text": "The shape is an L-shaped polygon that is tilted.", "label": 216}
+{"text": "A tilted, L-shaped polygon is present.", "label": 216}
+{"text": "It has the form of a tilted L-shaped polygon.", "label": 216}
+{"text": "The shape of a tilted, L-like polygon is observed.", "label": 216}
+{"text": "A rectangle with two opposite sides that are flawed.", "label": 217}
+{"text": "The shape is a rectangle where two opposite sides have flaws.", "label": 217}
+{"text": "A rectangle with two flawed opposite sides is present.", "label": 217}
+{"text": "It has the form of a rectangle with two flawed opposing sides.", "label": 217}
+{"text": "The shape of a rectangle with flaws on two opposite sides is observed.", "label": 217}
+{"text": "Star-shaped polygon", "label": 218}
+{"text": "The shape is a polygon that resembles a star.", "label": 218}
+{"text": "A star-shaped polygon is present.", "label": 218}
+{"text": "It has the form of a polygon shaped like a star.", "label": 218}
+{"text": "The shape of a star-like polygon is observed.", "label": 218}
+{"text": "ㄴ-shaped polygon", "label": 219}
+{"text": "The shape is a polygon that resembles the letter L.", "label": 219}
+{"text": "An L-shaped polygon is present.", "label": 219}
+{"text": "It has the form of an L-shaped polygon.", "label": 219}
+{"text": "The shape of an L-like polygon is observed.", "label": 219}
+{"text": "Pentagon with one indented side", "label": 220}
+{"text": "The shape is a pentagon that has one indented side.", "label": 220}
+{"text": "A pentagon with a single indented side is present.", "label": 220}
+{"text": "It has the form of a pentagon with one of its sides indented.", "label": 220}
+{"text": "The shape of a pentagon with one indented side is observed.", "label": 220}
+{"text": "Taegeuk or S-shape", "label": 221}
+{"text": "The shape is a Taegeuk symbol or an S-shape.", "label": 221}
+{"text": "A Taegeuk or S-shape is present.", "label": 221}
+{"text": "It has the form of a Taegeuk or an S-shape.", "label": 221}
+{"text": "The shape of a Taegeuk or an S is observed.", "label": 221}
+{"text": "Quadrilateral with each side indented and protruding", "label": 222}
+{"text": "The shape is a quadrilateral where each side is both indented and protruding.", "label": 222}
+{"text": "A quadrilateral with every side having indentations and protrusions is present.", "label": 222}
+{"text": "It has the form of a quadrilateral with each side being indented and sticking out.", "label": 222}
+{"text": "The shape of a quadrilateral with indented and protruding sides is observed.", "label": 222}
+{"text": "Triangle with one indented side", "label": 223}
+{"text": "The shape is a triangle that has one indented side.", "label": 223}
+{"text": "A triangle with a single indented side is present.", "label": 223}
+{"text": "It has the form of a triangle with one side being indented.", "label": 223}
+{"text": "The shape of a triangle with one indented side is observed.", "label": 223}
+{"text": "Polygon with one indented side (ㄷ-shape)", "label": 224}
+{"text": "The shape is a polygon with one side indented in a 'ㄷ' shape.", "label": 224}
+{"text": "A polygon with a single 'ㄷ'-shaped indented side is present.", "label": 224}
+{"text": "It has the form of a polygon with a 'ㄷ'-shaped indentation.", "label": 224}
+{"text": "The shape of a polygon with one 'ㄷ'-shaped indented side is observed.", "label": 224}
+{"text": "Hexagon", "label": 225}
+{"text": "The shape is a hexagon.", "label": 225}
+{"text": "A hexagon is present.", "label": 225}
+{"text": "It has the form of a hexagon.", "label": 225}
+{"text": "The shape of a hexagon is observed.", "label": 225}
+{"text": "Circle shape.", "label": 226}
+{"text": "The shape is a circle.", "label": 226}
+{"text": "A circle shape is present.", "label": 226}
+{"text": "It has the form of a circle.", "label": 226}
+{"text": "The shape of a circle is observed.", "label": 226}
+{"text": "Circle with two openings", "label": 227}
+{"text": "The shape is a circle that has two openings.", "label": 227}
+{"text": "A circle with two gaps in it is present.", "label": 227}
+{"text": "It has the form of a circle with two openings.", "label": 227}
+{"text": "The shape of a circle with two openings is observed.", "label": 227}
+{"text": "Basketball-shaped circle", "label": 228}
+{"text": "The shape is a circle that resembles a basketball.", "label": 228}
+{"text": "A basketball-shaped circle is present.", "label": 228}
+{"text": "It has the form of a circle with basketball-like markings.", "label": 228}
+{"text": "The shape of a basketball-style circle is observed.", "label": 228}
+{"text": "A circle shape made of two combined semi-circles.", "label": 229}
+{"text": "The shape is a circle formed by combining two semi-circles.", "label": 229}
+{"text": "A circle shape composed of two joined semi-circles is present.", "label": 229}
+{"text": "It has the form of a circle made from two semi-circles.", "label": 229}
+{"text": "The shape of a circle created by two combined semi-circles is observed.", "label": 229}
+{"text": "Circle with four openings", "label": 230}
+{"text": "The shape is a circle that has four openings.", "label": 230}
+{"text": "A circle with four gaps in it is present.", "label": 230}
+{"text": "It has the form of a circle with four openings.", "label": 230}
+{"text": "The shape of a circle with four openings is observed.", "label": 230}
+{"text": "A circle with three openings.", "label": 231}
+{"text": "The shape is a circle that has three openings.", "label": 231}
+{"text": "A circle with three gaps in it is present.", "label": 231}
+{"text": "It has the form of a circle with three openings.", "label": 231}
+{"text": "The shape of a circle with three openings is observed.", "label": 231}
+{"text": "A circle shape with an opening in one place.", "label": 232}
+{"text": "The shape is a circle with a single opening.", "label": 232}
+{"text": "A circle shape that is open in one spot is present.", "label": 232}
+{"text": "It has the form of a circle with one gap.", "label": 232}
+{"text": "The shape of a circle with a single opening is observed.", "label": 232}
+{"text": "Double circle", "label": 233}
+{"text": "The shape consists of two concentric circles.", "label": 233}
+{"text": "A double circle is present.", "label": 233}
+{"text": "It has the form of one circle inside another.", "label": 233}
+{"text": "The shape of a double circle is observed.", "label": 233}
+{"text": "Concentric circles", "label": 234}
+{"text": "The shape consists of concentric circles.", "label": 234}
+{"text": "Concentric circles are present.", "label": 234}
+{"text": "It has the form of circles sharing the same center.", "label": 234}
+{"text": "The shape of concentric circles is observed.", "label": 234}
+{"text": "Double circle combined with a straight line", "label": 235}
+{"text": "The shape is a double circle combined with a straight line.", "label": 235}
+{"text": "A double circle connected to a straight line is present.", "label": 235}
+{"text": "It has the form of a double circle and a straight line joined together.", "label": 235}
+{"text": "The shape of a double circle combined with a straight line is observed.", "label": 235}
+{"text": "Double oval / Ellipse", "label": 236}
+{"text": "The shape is a double oval or a double ellipse.", "label": 236}
+{"text": "A double oval shape is present.", "label": 236}
+{"text": "It has the form of two concentric ovals.", "label": 236}
+{"text": "The shape of a double ellipse is observed.", "label": 236}
+{"text": "Triple oval / Ellipse", "label": 237}
+{"text": "The shape is a triple oval or a triple ellipse.", "label": 237}
+{"text": "A triple oval shape is present.", "label": 237}
+{"text": "It has the form of three concentric ovals.", "label": 237}
+{"text": "The shape of a triple ellipse is observed.", "label": 237}
+{"text": "Distorted concentric circles", "label": 238}
+{"text": "The shape is a set of distorted concentric circles.", "label": 238}
+{"text": "Distorted concentric circles are present.", "label": 238}
+{"text": "It has the form of misshapen circles sharing the same center.", "label": 238}
+{"text": "The shape of distorted concentric circles is observed.", "label": 238}
+{"text": "Oval / Ellipse", "label": 239}
+{"text": "The shape is an oval or an ellipse.", "label": 239}
+{"text": "An oval shape is present.", "label": 239}
+{"text": "It has the form of an ellipse.", "label": 239}
+{"text": "The shape of an oval is observed.", "label": 239}
+{"text": "Two or more straight lines inside an oval", "label": 240}
+{"text": "There are two or more straight lines inside of an oval.", "label": 240}
+{"text": "At least two straight lines are contained within an oval.", "label": 240}
+{"text": "The shape is an oval with two or more straight lines inside.", "label": 240}
+{"text": "Inside an oval, there are multiple straight lines.", "label": 240}
+{"text": "Oval with a straight side", "label": 241}
+{"text": "The shape is an oval that has one straight side.", "label": 241}
+{"text": "An oval with a single straight side is present.", "label": 241}
+{"text": "It has the form of an oval with one side flattened.", "label": 241}
+{"text": "The shape of an oval with one straight side is observed.", "label": 241}
+{"text": "A bent oval or an oval with one straight side (a rounded bullet shape that is bent).", "label": 242}
+{"text": "The shape is a bent oval or an oval with a straight side, resembling a bent, rounded bullet.", "label": 242}
+{"text": "A bent oval or an oval with one straight side, similar to a bent rounded bullet, is present.", "label": 242}
+{"text": "It has the form of a bent oval or an oval with a straight side, like a bent rounded bullet.", "label": 242}
+{"text": "The shape of a bent, rounded bullet, which is a bent oval with one straight side, is observed.", "label": 242}
+{"text": "Semicircle shape", "label": 243}
+{"text": "The shape is a semicircle.", "label": 243}
+{"text": "A semicircle shape is present.", "label": 243}
+{"text": "It has the form of a half-circle.", "label": 243}
+{"text": "The shape of a semicircle is observed.", "label": 243}
+{"text": "Circle indented on one side with a straight line", "label": 244}
+{"text": "The shape is a circle indented on one side by a straight line.", "label": 244}
+{"text": "A circle with a straight-line indentation on one side is present.", "label": 244}
+{"text": "It has the form of a circle with a straight indent on one side.", "label": 244}
+{"text": "The shape of a circle indented with a straight line is observed.", "label": 244}
+{"text": "A partial circle with one pointed side and one straight side (a pointed bullet shape).", "label": 245}
+{"text": "The shape is a partial circle with one pointed and one straight side, resembling a pointed bullet.", "label": 245}
+{"text": "A pointed bullet shape, which is a partial circle with one pointed and one straight side, is present.", "label": 245}
+{"text": "It has the form of a partial circle with a pointed and a straight side, like a pointed bullet.", "label": 245}
+{"text": "The shape of a pointed bullet, a partial circle with one pointed and one straight side, is observed.", "label": 245}
+{"text": "Bent oval", "label": 246}
+{"text": "The shape is a bent oval.", "label": 246}
+{"text": "A bent oval is present.", "label": 246}
+{"text": "It has the form of an oval that is bent.", "label": 246}
+{"text": "The shape of a bent oval is observed.", "label": 246}
+{"text": "An arrowhead-shaped partial circle (a bullet shape with an indented straight line).", "label": 247}
+{"text": "The shape is an arrowhead-like partial circle, which is a bullet shape with an indented straight line.", "label": 247}
+{"text": "An arrowhead-shaped partial circle, or a bullet shape with an indented straight line, is present.", "label": 247}
+{"text": "It has the form of a partial circle shaped like an arrowhead.", "label": 247}
+{"text": "The shape of an arrowhead, a bullet shape with an indented straight line, is observed.", "label": 247}
+{"text": "Oval with two pointed ends", "label": 248}
+{"text": "The shape is an oval that has two pointed ends.", "label": 248}
+{"text": "An oval with two pointed ends is present.", "label": 248}
+{"text": "It has the form of an oval with two sharp ends.", "label": 248}
+{"text": "The shape of an oval with two pointed ends is observed.", "label": 248}
+{"text": "Teardrop shape / Water-drop shape", "label": 249}
+{"text": "The shape resembles a teardrop or a water-drop.", "label": 249}
+{"text": "A teardrop shape is present.", "label": 249}
+{"text": "It has the form of a water-drop.", "label": 249}
+{"text": "The shape of a teardrop is observed.", "label": 249}
+{"text": "Deformed teardrop shape", "label": 250}
+{"text": "The shape is a deformed teardrop.", "label": 250}
+{"text": "A misshapen teardrop shape is present.", "label": 250}
+{"text": "It has the form of a deformed water-drop.", "label": 250}
+{"text": "The shape of a deformed teardrop is observed.", "label": 250}
+{"text": "Semicircle shape with an indentation/curve", "label": 251}
+{"text": "The shape is a semicircle with an indentation or a curve.", "label": 251}
+{"text": "A semicircle shape that features an indent or curve is present.", "label": 251}
+{"text": "It has the form of a semicircle with an added indentation or curve.", "label": 251}
+{"text": "The shape of a semicircle with an indentation is observed.", "label": 251}
+{"text": "Crescent moon shape", "label": 252}
+{"text": "The shape resembles a crescent moon.", "label": 252}
+{"text": "A crescent moon shape is present.", "label": 252}
+{"text": "It has the form of a crescent moon.", "label": 252}
+{"text": "The shape of a crescent moon is observed.", "label": 252}
+{"text": "Deformed double circle", "label": 253}
+{"text": "The shape is a deformed double circle.", "label": 253}
+{"text": "A misshapen double circle is present.", "label": 253}
+{"text": "It has the form of a deformed set of concentric circles.", "label": 253}
+{"text": "The shape of a deformed double circle is observed.", "label": 253}
+{"text": "Case where the content of a partial circle is expressed with lines", "label": 254}
+{"text": "This is a case where lines are used to express the content of a partial circle.", "label": 254}
+{"text": "In this scenario, the content inside a partial circle is shown with lines.", "label": 254}
+{"text": "This describes a situation where a partial circle's content is represented by lines.", "label": 254}
+{"text": "The content of a partial circle is expressed with lines in this case.", "label": 254}
+{"text": "Semicircle with a pointed nose (pointed shape has no form classification)", "label": 255}
+{"text": "The shape is a semicircle with a pointed nose", "label": 255}
+{"text": "A semicircle with a pointed nose is present, and the pointed shape is not classified.", "label": 255}
+{"text": "It has the form of a semicircle with a pointed tip, which is unclassified.", "label": 255}
+{"text": "The shape is a semicircle with a pointed nose, with the point having no form classification.", "label": 255}
+{"text": "Tunnel-shaped partial circle", "label": 256}
+{"text": "The shape is a partial circle that resembles a tunnel.", "label": 256}
+{"text": "A tunnel-shaped partial circle is present.", "label": 256}
+{"text": "It has the form of a partial circle shaped like a tunnel.", "label": 256}
+{"text": "The shape of a tunnel-like partial circle is observed.", "label": 256}
+{"text": "Semicircle or half-moon shape that is trimmed/cut", "label": 257}
+{"text": "The shape is a semicircle or half-moon that has been trimmed or cut.", "label": 257}
+{"text": "A trimmed or cut semicircle or half-moon shape is present.", "label": 257}
+{"text": "It has the form of a trimmed semi-circle or half-moon.", "label": 257}
+{"text": "The shape of a cut semicircle or half-moon is observed.", "label": 257}
+{"text": "A shell-shaped partial circle.", "label": 258}
+{"text": "The shape is a partial circle that resembles a shell.", "label": 258}
+{"text": "A shell-shaped partial circle is present.", "label": 258}
+{"text": "It has the form of a partial circle shaped like a shell.", "label": 258}
+{"text": "The shape of a shell-like partial circle is observed.", "label": 258}
+{"text": "A partial circle with one rounded side and one straight side (a rounded bullet shape).", "label": 259}
+{"text": "The shape is a partial circle with one rounded and one straight side, resembling a rounded bullet.", "label": 259}
+{"text": "A rounded bullet shape, which is a partial circle with one rounded and one straight side, is present.", "label": 259}
+{"text": "It has the form of a partial circle with a rounded and a straight side, like a rounded bullet.", "label": 259}
+{"text": "The shape of a rounded bullet, a partial circle with one rounded and one straight side, is observed.", "label": 259}

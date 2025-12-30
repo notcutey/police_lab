@@ -1,0 +1,26 @@
+{
+  "image": "/home/piai/바탕화면/test_crime/00001-20-0126_1.png",
+  "topk": [
+    {
+      "rank": 1,
+      "text_index": 200,
+      "label": 50,
+      "score": 9.875,
+      "text": "Regular repetition of straight lines parallel to the top/bottom of the shoe (narrow spacing)"
+    },
+    {
+      "rank": 2,
+      "text_index": 775,
+      "label": 161,
+      "score": 8.25,
+      "text": "Oval / Ellipse"
+    },
+    {
+      "rank": 3,
+      "text_index": 395,
+      "label": 86,
+      "score": 0.58203125,
+      "text": "Obtuse triangle with one curved side"
+    }
+  ]
+}
